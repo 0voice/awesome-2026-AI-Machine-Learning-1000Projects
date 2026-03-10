@@ -44,18 +44,26 @@
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
+|[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
 |[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|
 |[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
 |[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|简单快速地构建你的神经网络|
 |[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
+|[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)|简单的PyTorch教程零到精通|
 |[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
+|[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
+|[learning-to-learn](https://github.com/deepmind/learning-to-learn)|学习如何在TensorFlow中学习|
+|[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
+|[Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)|《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码|
+|[DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)|深度学习教程笔记和代码|
 |[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)|TensorFlow教程与YouTube视频|
 |[tutorials](https://github.com/MorvanZhou/tutorials)|机器学习相关教程|
 |[Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)|周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有…|
 |[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
 |[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
+|[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
 |[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
 |[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
@@ -94,8 +102,11 @@
 |[Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python)|包含24个小型机器学习项目|
 |[Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code)|包含24个数据分析项目|
 |[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目|
+|[textgenrnn](https://github.com/minimaxir/textgenrnn)|一个简单的神经网络|
 |[DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|深度学习示例|
-
+|[MachineLearning](https://github.com/wepe/MachineLearning)|基础机器学习和深度学习|
+|[examples](https://github.com/tensorflow/examples)|TensorFlow例子|
+|[DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|
 
 
 
@@ -165,8 +176,9 @@
 |[gcn](https://github.com/tkipf/gcn)|卷积网络在TensorFlow中的实现|
 |[cnn-explainer](https://github.com/poloclub/cnn-explainer)|卷积神经网络与交互可视化|
 |[tensorflow_practice](https://github.com/princewen/tensorflow_practice)|tensorflow实战练习，包括强化学习、推荐系统、nlp等|
-|[pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)|4.2k|Pytorch implementation of convolutional neural network visualization techniques|
+|[pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)|基于 PyTorch 实现的卷积神经网络可视化|
 |[deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)|深度学习研究论文的总结和注释|
+|[Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)|⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归|
 
 
 
@@ -212,6 +224,9 @@
 |[facenet](https://github.com/davidsandberg/facenet)|人脸识别使用Tensorflow|
 |[tensorpack](https://github.com/tensorpack/tensorpack)|基于TensorFlow的神经网络训练接口，重点是速度灵活性|
 |[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)|Tensorflow机器学习食谱|
+|[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全的机器学习|
+|[deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|深度强化学习纳米学位项目|
+|[pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)|Python音频分析库：特征提取，分类，分割和应用|
 
 
 
@@ -264,6 +279,8 @@
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
 |[spaCy](https://github.com/explosion/spaCy)|工业强度的自然语言处理（NLP）与Python和Cython|
 |[NLP-progress](https://github.com/sebastianruder/NLP-progress)|跟踪自然语言处理（NLP）的进展，包括最常见的NLP任务的数据集和当前最先进的技术|
+|[daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)|记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文|
+|[HyperLPR](https://github.com/zeusees/HyperLPR)|基于深度学习高性能中文车牌识别|
 
 
 
