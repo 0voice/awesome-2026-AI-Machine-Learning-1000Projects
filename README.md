@@ -34,18 +34,24 @@
 
 | 项目 | 简介 |
 |--------|------|
-| [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测的机器学习项目 |
-| [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测任务的模型 |
-| [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类的机器学习项目 |
-|[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|是一个数据科学项目样板，提供数据库连接、数据处理和机器学习模型开发的基本设置来启动数据科学项目 |
-|[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|Simplilearn的机器学习项目|
+| [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
+| [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
+| [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类|
+|[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|数据处理 |
+|[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|包含几个初学者机器学习项目|
 |[Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)|这是一个端到端的项目，预测建筑物的能源之星得分|
-| [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析的数据科学项目 |
-| [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析的数据科学项目 |
-| [YouTube Trending Videos Analysis with Python](https://amanxai.com/2020/11/28/youtube-trending-videos-analysis-with-python/) | YouTube趋势视频分析的数据科学项目 |
-|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测项目|
+| [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
+| [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
+| [YouTube Trending Videos Analysis with Python](https://amanxai.com/2020/11/28/youtube-trending-videos-analysis-with-python/) | YouTube趋势视频分析 |
+|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测|
 |[Detect Objects of Similar Color using OpenCV in Python](https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/)|使用OpenCV检测相似颜色对象|
 |[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
+|[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
+|[Gaussian Mixture Model in Machine Learning](https://pythongeeks.org/gaussian-mixture-model-in-machine-learning/)|机器学习中的高斯混合模型|
+|[K-means Clustering in Machine Learning](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|K-Means聚类|
+|[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
+|[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
+|[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
 
 
 
@@ -58,10 +64,10 @@
 
 | 项目 | 简介 |
 |--------|------|
-| [Earthquake Prediction Model with Machine Learning](https://amanxai.com/2020/11/12/earthquake-prediction-model-with-machine-learning/) | 地震预测项目 |
-| [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测模型 |
+| [Earthquake Prediction Model with Machine Learning](https://amanxai.com/2020/11/12/earthquake-prediction-model-with-machine-learning/) | 地震预测 |
+| [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测 |
 | [Title Generator with Machine Learning](https://amanxai.com/2020/10/05/title-generator-with-machine-learning/)|使YouTube视频甚至您的博客的标题生成器任务 | 
-| [Next Word Prediction Model](https://amanxai.com/2020/07/20/next-word-prediction-model/) |使用Python训练一个用于下一个单词预测的深度学习模型 |
+| [Next Word Prediction Model](https://amanxai.com/2020/07/20/next-word-prediction-model/) |使用Python训练一个用于下一个单词预测 |
 | [Dog and Cat Classification using CNN](https://amanxai.com/2020/06/16/dog-and-cat-classification-using-convolutional-neural-networks-cnn/) |使用卷积神经网络分类猫和狗 |
 |[Building-Machine-Learning-Projects-with-TensorFlow](https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow)|这是一个用TensorFlow构建机器学习项目|
 |[IBM-final-project-Machine-Learning](https://github.com/Moeinh77/IBM-final-project-Machine-Learning)|IBM课程中在coursera上的最终项目，包含机器学习不同算法的比较|
@@ -86,7 +92,19 @@
 |[Real-Time Face Detection & Recognition using OpenCV](https://techvidvan.com/tutorials/face-detection-recognition-opencv-python/)|使用Python的OpenCV和face_recognition库构建一个人脸检测和人脸识别项目|
 |[Machine Learning Weather Prediction – Forecasting the Future](https://techvidvan.com/tutorials/machine-learning-weather-prediction/)|预测天气状况|
 |[Machine Learning Parkinson’s Disease Detection Project](https://techvidvan.com/tutorials/machine-learning-parkinsons-disease-detection-project/)|帕金森病检测项目|
-
+|[Fake Currency Detection using Machine Learning](https://projectgurukul.org/fake-currency-detection-machine-learning/)|假币检测|
+|[Heart Disease Prediction using Machine Learning](https://projectgurukul.org/heart-disease-prediction-using-machine-learning/)|预测心脏病|
+|[Thyroid Detection using Machine Learning](https://projectgurukul.org/thyroid-detection-using-machine-learning/)|甲状腺功能低下疾病的检测模型|
+|[Data Plan Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/data-plan-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归对每个客户每月的预期费用进行预测|
+|[Water Treatment Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/water-treatment-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的水处理成本预测|
+|[Shipping Rate Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/shipping-rate-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的运价成本预测|
+|[Soil Nutrient Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/soil-nutrient-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的土壤养分成本预测|
+|[Food Prep Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/food-prep-cost-prediction-using-bayesian-regression-in-ml/)|食品准备成本预测|
+|[Construction Material Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/construction-material-cost-prediction-using-bayesian-regression-in-ml/)|建筑材料成本预测|
+|[Athlete Training Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/athlete-training-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的运动员训练成本预测|
+|[Clinic Wait Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/clinic-wait-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的临床等待成本预测|
+|[Delivery Time Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/delivery-time-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的交货时间成本预测|
+|[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
 
 
 
@@ -118,6 +136,14 @@
 |[Real-time Hand Gesture Recognition using TensorFlow & OpenCV](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)|使用OpenCV和Python中的MediaPipe框架和Tensorflow制作一个实时手势识别器|
 |[Build a Movie Recommendation System in Python using Machine Learning](https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/)|电影推荐系统|
 |[Machine Learning Project – Bird Species Identification](https://techvidvan.com/tutorials/machine-learning-bird-species-identification/)|根据鸟类的外观对不同种类的鸟类进行识别和分类|
+|[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
+|[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
+|[Flower Recognition using CNN](https://projectgurukul.org/flower-recognition-using-cnn/)|自动识别花的图像，并告诉花的名字|
+|[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
+|[Food Classification using Deep Learning](https://projectgurukul.org/food-classification-using-deep-learning/)|食物分类系统|
+|[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
+|[Fake Product Review Detection using Machine Learning](https://pythongeeks.org/fake-product-review-detection-using-machine-learning/)|该系统将协助组织用户评论，以便潜在客户和制造商都可以快速决定是否购买或销售各种产品|
+|[Develop LSTM Models for Time Series Forecasting](https://nixustechnologies.com/lstm-time-series-forecasting/)|时间序列预测模型|
 
 
   ---
@@ -128,6 +154,8 @@
 
 | 项目 | 简介 |
 |--------|------|
+|[Machine Learning Interview Questions and Answers](https://pythongeeks.org/machine-learning-interview-questions-and-answers/)|面试问答1|
+|[ML Interview Questions with Answers](https://pythongeeks.org/ml-interview-questions-with-answers/)|面试问答2|
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测模型 |
 |[Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)|检测假新闻项目|
 |[Python Machine Learning Project – Detecting Parkinson’s Disease with XGBoost](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)|测出一个人体内是否存在帕金森病|
@@ -152,8 +180,10 @@
 |[DeepFake Detection using Convolutional Neural Networks](https://techvidvan.com/tutorials/deepfake-detection-using-cnn/)|deepfake检测系统用于检测图像是真实图像还是deepfake图像|
 |[Image Segmentation using Machine Learning](https://techvidvan.com/tutorials/image-segmentation-machine-learning/)|提供被检测物体的精确轮廓|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
-
-
+|[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
+|[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
+|[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
+|[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
 
 
 
