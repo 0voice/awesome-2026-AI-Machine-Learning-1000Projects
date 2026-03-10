@@ -30,15 +30,20 @@
 
 ### 机器学习 入门 级
 
-**零基础、代码短、10 分钟能跑通**
+**零基础、代码短、10 分钟能跑通**  
 
 | 项目 | 简介 |
 |--------|------|
+|[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|包含几个初学者机器学习项目|
+| [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | 包含多个数据分析项目及教程 |
+| [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects) | 包含多个练手小型项目及教程 |
+|[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
+|[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
+|[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
 | [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类|
 |[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|数据处理 |
-|[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|包含几个初学者机器学习项目|
 |[Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)|这是一个端到端的项目，预测建筑物的能源之星得分|
 | [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
 | [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
@@ -49,9 +54,8 @@
 |[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
 |[Gaussian Mixture Model in Machine Learning](https://pythongeeks.org/gaussian-mixture-model-in-machine-learning/)|机器学习中的高斯混合模型|
 |[K-means Clustering in Machine Learning](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|K-Means聚类|
-|[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
-|[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
-|[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
+
+
 
 
 
@@ -60,10 +64,13 @@
 
 ### 机器学习 提升 级
 
-**需要一点基础，但不复杂**
+**需要一点基础，但不复杂**  
 
 | 项目 | 简介 |
 |--------|------|
+| [21 Machine Learning Projects – Datasets Included](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html) | 包含21个机器学习项目和数据集 |
+| [Top 310+ Machine Learning Projects for 2025 [Source Code Included]](https://data-flair.training/blogs/machine-learning-project-ideas/) | 包含机器学习20个项目与数据集 |
+| [Deep_and_Machine_Learning_Projects](https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects)|包含多个深度学习相关项目 |
 | [Earthquake Prediction Model with Machine Learning](https://amanxai.com/2020/11/12/earthquake-prediction-model-with-machine-learning/) | 地震预测 |
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测 |
 | [Title Generator with Machine Learning](https://amanxai.com/2020/10/05/title-generator-with-machine-learning/)|使YouTube视频甚至您的博客的标题生成器任务 | 
@@ -105,6 +112,8 @@
 |[Clinic Wait Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/clinic-wait-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的临床等待成本预测|
 |[Delivery Time Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/delivery-time-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的交货时间成本预测|
 |[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
+| [Machine Learning Projects Repository](https://github.com/shsarv/Machine-Learning-Projects?tab=readme-ov-file) | 这个集合包含了17个项目，展示了机器学习、深度学习、自然语言处理（NLP）和计算机视觉中的核心概念 |
+
 
 
 
@@ -112,7 +121,7 @@
 
 ### 机器学习 毕设 级
 
-**完整、有难度、可直接当毕设**
+**完整、有难度、可直接当毕设**  
 
 | 项目 | 简介 |
 |--------|------|
@@ -150,12 +159,13 @@
 
 ### 机器学习 面试 级
 
-**面试高频、技术深度、体现工程思维**
+**面试高频、技术深度、体现工程思维**  
 
 | 项目 | 简介 |
 |--------|------|
 |[Machine Learning Interview Questions and Answers](https://pythongeeks.org/machine-learning-interview-questions-and-answers/)|面试问答1|
 |[ML Interview Questions with Answers](https://pythongeeks.org/ml-interview-questions-with-answers/)|面试问答2|
+| [Machine Learning Projects](https://github.com/anujvyas/Machine-Learning-Projects)|包含多个算法类的机器学习项目 |
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测模型 |
 |[Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)|检测假新闻项目|
 |[Python Machine Learning Project – Detecting Parkinson’s Disease with XGBoost](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)|测出一个人体内是否存在帕金森病|
