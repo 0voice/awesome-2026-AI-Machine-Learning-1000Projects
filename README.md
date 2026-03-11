@@ -1,7 +1,7 @@
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
 <p align="center">
-  💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖面试 / 毕设 / 入门 / 提升全场景
+  💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖 入门 / 提升 / 毕设 / 面试  全场景
 </p>
 
 <p align="center">
@@ -61,6 +61,7 @@
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
+|[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|初学者课程及练习|
 | [Machine Learning Course](https://amanxai.com/2020/09/24/machine-learning-course/) | 来自AMAN KHARWAL的机器学习课程 |
 |[Machine_Learning_2018](https://github.com/snrazavi/Machine_Learning_2018)|机器学习课程代码和项目， University of Tabriz.|
 |[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
@@ -210,7 +211,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)|基于 PyTorch 实现的卷积神经网络可视化|
 |[deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)|深度学习研究论文的总结和注释|
 |[Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)|⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归|
-
+|[sonnet](https://github.com/google-deepmind/sonnet)|基于tensorflow的神经网络库|
 
 
 
@@ -260,6 +261,9 @@ lp-beginner-projects)|nlp初学者项目|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全的机器学习|
 |[deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|深度强化学习纳米学位项目|
 |[pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)|Python音频分析库：特征提取，分类，分割和应用|
+|[transformers](https://github.com/huggingface/transformers/tree/main)| LLM 应用|
+|[Co2-Emission-Prediction-Using-Machine-Learning](https://github.com/Vatshayan/Co2-Emission-Prediction-Using-Machine-Learning)|最后一年二氧化碳排放预测使用机器学习项目|
+
 
 
 
