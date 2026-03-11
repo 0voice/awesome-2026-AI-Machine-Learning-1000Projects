@@ -1,15 +1,15 @@
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
-<p align="center">   <p align   对齐="center"   "center">
+<p align="center">
   💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖面试 / 毕设 / 入门 / 提升全场景
-</p>   < / p>
+</p>
 
-<p align="center">   <p align   对齐="center"   "center">
+<p align="center">
   🚀 持续更新中 
-</p>   < / p>
-<div align="center">   <div align   对齐="center"   "center">
-  <img src="images/ml_banner.png" width="800"><img src="images/ml_banner.png"   "images/ml_banner.png" width="800">
-</div>   < / div>
+</p>
+<div align="center">
+  <img src="images/ml_banner.png" width="800">
+</div>
 
 ---
 
@@ -324,6 +324,3 @@ lp-beginner-projects)|nlp初学者项目|
 |[Machine-Learning-for-Healthcare-Analytics-Projects](https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects)|多个医疗保健分析的机器学习项目|
 |[machine-learning-labs-msba](https://github.com/Nazgul-123/machine-learning-labs-msba)|商业分析理学硕士（MSBA）机器学习课程的实验室和项目，业务环境中的实用ML应用程序集合|
 |[applied-ml](https://github.com/eugeneyan/applied-ml)|关于数据科学和机器学习在生产中的论文、文章和博客|
-[百面机器学习PDF](https://github.com/0voice/2026-AI-ML-1000Projects/raw/main/百面机器学习.pdf)
-
-
