@@ -101,6 +101,7 @@
 |[Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)|这是Siraj Raval在Youtube上的“在3个月内学习机器学习”的代码|
 |[Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战|
 |[learnopencv](https://github.com/spmallick/learnopencv)|学习OpenCV: C和Python示例|
+|[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
 |[rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)|使用PyTorch和Scikit-Learn的机器学习代码库|
 |[neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)|书，《神经网络和深度学习》的代码示例|
 |[stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)|斯坦福CS 229机器学习|
@@ -117,11 +118,13 @@
 |[cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)|卷积神经网络在Tensorflow中的文本分类|
 |[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
 |[tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)|从基础到稍微有趣的Tensorflow应用|
+|[dmls-book](https://github.com/chiphuyen/dmls-book)|《设计机器学习系统》一书的摘要和资源|
 |[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
 |[Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML)|学习机器学习数学的资源集合|
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
 |[faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|
+|[ML-foundations](https://github.com/jonkrohn/ML-foundations)|机器学习基础：线性代数，微积分，统计学和计算机科学|
 | [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类|
 |[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|数据处理 |
 |[Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)|这是一个端到端的项目，预测建筑物的能源之星得分|
@@ -141,6 +144,7 @@
 |[Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code)|包含24个数据分析项目|
 |[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目||[nlp-beginner-projects](https://github.com/positivepeng
 lp-beginner-projects)|nlp初学者项目|
+|[Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|常见机器学习算法的Python代码|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[textgenrnn](https://github.com/minimaxir/textgenrnn)|一个简单的神经网络|
 |[DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|深度学习示例|
@@ -334,6 +338,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[interpret](https://github.com/interpretml/interpret)|拟合可解释的模型，解释一下黑箱机器学习|
 |[A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)|包含来自80多家公司的300个案例研究|
 |[Ai-Learn](https://github.com/tangyudi/Ai-Learn)|机器学习面试路线图|
+|[MLQuestions](https://github.com/andrewekhalel/MLQuestions)|机器学习和计算机视觉工程师-技术面试问题|
 |[machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|机器学习中的经典方程和图表|
 |[nni](https://github.com/microsoft/nni)|NNI自动化特征工程、神经架构搜索、超参数调优和深度学习的模型压缩|
 |[Abandoned Object Detection in Video Surveillance using OpenCV](https://data-flair.training/blogs/abandoned-object-detection/)|基于OpenCV和python的废弃物体检测系统项目|
@@ -379,3 +384,5 @@ lp-beginner-projects)|nlp初学者项目|
 |[Machine-Learning-for-Healthcare-Analytics-Projects](https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects)|多个医疗保健分析的机器学习项目|
 |[machine-learning-labs-msba](https://github.com/Nazgul-123/machine-learning-labs-msba)|商业分析理学硕士（MSBA）机器学习课程的实验室和项目，业务环境中的实用ML应用程序集合|
 |[applied-ml](https://github.com/eugeneyan/applied-ml)|关于数据科学和机器学习在生产中的论文、文章和博客|
+
+💡 如果对你有帮助，欢迎 Star 收藏，持续更新～
