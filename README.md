@@ -44,6 +44,8 @@
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
+| [Machine Learning Course](https://amanxai.com/2020/09/24/machine-learning-course/) | 来自AMAN KHARWAL的机器学习课程 |
+|[Machine_Learning_2018](https://github.com/snrazavi/Machine_Learning_2018)|机器学习课程代码和项目， University of Tabriz.|
 |[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
 |[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|
 |[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
@@ -77,8 +79,12 @@
 |[neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)|书，《神经网络和深度学习》的代码示例|
 |[stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)|斯坦福CS 229机器学习|
 |[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|包含几个初学者机器学习项目|
+|[Machine-Learning-Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)|15个深度学习的小型项目|
+|[Machine-Learning-using-Python](https://github.com/SharmaNatasha/Machine-Learning-using-Python)|包含6个机器学习小项目|
+|[Machine-Learning-Projects](https://github.com/amydaali/Machine-Learning-Projects)|包含线性回归，逻辑回归，k近邻，决策树，随机森林，支持向量机，深度学习等基础项目|
 | [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | 包含多个数据分析项目及教程 |
 | [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects) | 包含多个练手小型项目及教程 |
+|[99-ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects)|目前有十多个机器学习初学者项目|
 |[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
 |[cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)|卷积神经网络在Tensorflow中的文本分类|
 |[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
@@ -189,6 +195,7 @@
 
 | 项目 | 简介 |
 |--------|------|
+|[MachineLearningCourse](https://github.com/GeostatsGuy/MachineLearningCourse)|这是一位研究生导师发布的他的学生们的机器学习期末课程项目，从2020年到2025年，还在更新中|
 | [Pneumonia Detection with Python](https://amanxai.com/2020/11/22/pneumonia-detection-with-python/) | 肺炎检测的机器学习项目 |
 | [Face Mask Detection with Machine Learning](https://amanxai.com/2020/11/17/face-mask-detection-with-machine-learning/) | 人脸检测计算机视觉项目 |
 | [Landmark Detection with Machine Learning](https://amanxai.com/2020/11/08/landmark-detection-with-machine-learning/) |地标检测的机器学习项目 |
@@ -256,6 +263,7 @@
 |[Sign Language Recognition Using Python and OpenCV](https://data-flair.training/blogs/sign-language-recognition-python-ml-opencv/)|基于Python和OpenCV的手语识别项目|
 |[Deep Learning Project – Colorize Black & White Images with Python](https://techvidvan.com/tutorials/deep-learning-project-colorize-black-white-images-with-python/)|用Python为黑白图像着色|
 | [deep learning project](https://github.com/Spandan-Madan/DeepLearningProject) |哈佛研究生的神经网络教程及项目 |
+|[MachineLearningCourse](https://github.com/GeostatsGuy/MachineLearningCourse)|这是一位研究生导师发布的他的学生们的机器学习期末课程项目，从2020年到2025年，还在更新中|
 |[Real-time Face Recognition with Python & OpenCV](https://techvidvan.com/tutorials/face-recognition-project-python-opencv/)|基于Python & OpenCV的实时人脸识别项目|
 |[Human Pose Estimation using OpenCV & Python](https://techvidvan.com/tutorials/human-pose-estimation-opencv/)|检测人类并分析特定的姿势|
 |[Dog’s Breed Identification using Deep Learning](https://techvidvan.com/tutorials/dog-breed-classification/)|通过观察狗的图像来识别狗的品种|
@@ -281,6 +289,8 @@
 |[NLP-progress](https://github.com/sebastianruder/NLP-progress)|跟踪自然语言处理（NLP）的进展，包括最常见的NLP任务的数据集和当前最先进的技术|
 |[daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)|记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文|
 |[HyperLPR](https://github.com/zeusees/HyperLPR)|基于深度学习高性能中文车牌识别|
+|[Machine-Learning-for-Healthcare-Analytics-Projects](https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects)|多个医疗保健分析的机器学习项目|
+|[machine-learning-labs-msba](https://github.com/Nazgul-123/machine-learning-labs-msba)|商业分析理学硕士（MSBA）机器学习课程的实验室和项目，业务环境中的实用ML应用程序集合|
 
 
 
