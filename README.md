@@ -42,8 +42,6 @@
 ### ⭐ 免责声明
 所有收录项目均为开源资源，仅用于学习交流，请勿用于商业用途。如涉及版权问题，请联系删除。
 
-[下载《百面机器学习》PDF](https://github.com/0voice/2026-AI-ML-1000Projects/raw/main/The Quest for Machine Learning: 100+ Interview Questions for Algorithm Engineer.pdf)
-
   ---
 
 ### 机器学习 入门 级
