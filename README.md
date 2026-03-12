@@ -88,6 +88,7 @@
 |[tutorials](https://github.com/MorvanZhou/tutorials)|机器学习相关教程|
 |[machine-learning-course](https://github.com/instillai/machine-learning-course)|Python机器学习课程|
 |[Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)|周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有…|
+|[Why Machine Learning Even Needs “Linear Algebra”](https://www.kaggle.com/writeups/shrikantlala/why-machine-learning-even-needs-linear-algebra)|为什么机器学习甚至需要线性代数|
 |[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
 |[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
 |[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
@@ -98,15 +99,18 @@
 |[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
 |[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
 |[Machine-Learning](https://github.com/DorsaRoh/Machine-Learning)| 从头开始学习机器学习|
+|[My 10-Day Machine Learning Learning Journey](https://www.kaggle.com/writeups/bittuagarwal23/my-10-day-machine-learning-learning-journey)|我的10天机器学习之旅|
 |[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
 |[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|机器学习框架、库和软件列表|
 |[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
+|[Machine Learning’s Three Major Approaches(ja)](https://www.kaggle.com/writeups/fhkadsfd/machine-learnings-three-major-approaches-comprehen)|机器学习的三大方法|
 |[Girls-In-AI](https://github.com/girls-in-ai/Girls-In-AI)|免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战|
 |[MachineLearning](https://github.com/wepe/MachineLearning)|机器学习算法的实现代码|
 |[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
 |[tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新|
 |[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)|《Python机器学习（第二版）》一书代码库和信息资源|
 |[mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)|麻省理工学院深度学习相关课程的教程、作业和竞赛|
+|[Welcome on IOAI-team group](https://www.kaggle.com/writeups/aboubacardiarra1810/welcome-on-ioai-team-group)|高中生的人工智能国际科学奥林匹克竞赛和学习平台|
 |[pytorch-book](https://github.com/chenyuntc/pytorch-book)| 《深度学习框架PyTorch：入门与实战》|
 |[Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)|这是Siraj Raval在Youtube上的“在3个月内学习机器学习”的代码|
 |[Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战|
@@ -136,6 +140,7 @@
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
 |[faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|
+|[Titanic Survival Prediction — A Clean & Practical Machine Learning Pipeline](https://www.kaggle.com/writeups/ayushstack/titanic-survival-prediction-a-clean-and-practical)|一个初学者友好的ML工作流与EDA，特征工程和模型评估|
 |[metarank](https://github.com/metarank/metarank)|一个低代码的机器学习个性化排名服务，为文章，列表，搜索结果，推荐提高用户参与度&帮助|
 |[ML-foundations](https://github.com/jonkrohn/ML-foundations)|机器学习基础：线性代数，微积分，统计学和计算机科学|
 | [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类|
@@ -147,6 +152,7 @@
 |[feature-selector](https://github.com/WillKoehrsen/feature-selector)|特征选择器是一种用于机器学习数据集降维的工具|
 |[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|学习成为机器学习工程师的完整每日计划|
 |[tensorflow](https://github.com/tensorflow/tensorflow)|TensorFlow是一个端到端的开源平台 用于机器学习|
+|[Hill Climbing in Machine Learning — Explained Like You’re 10](https://www.kaggle.com/writeups/kumarkatariya/hill-climbing-in-machine-learning-explained-like)|像你一样解释机器学习中的爬山|
 |[pysc2](https://github.com/google-deepmind/pysc2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|星际争霸II学习环境|
 | [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
 |[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)|Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习|
@@ -215,6 +221,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[machinelearning](https://github.com/ljpzzz/machinelearning)|刘建平Pinard的博客配套代码|
 |[aerosolve](https://github.com/airbnb/aerosolve)|一个为人类设计的机器学习包|
 |[prml](https://github.com/gerdm/prml)|为Christopher Bishop编写的《模式识别和机器学习》一书提供的Python笔记、代码和笔记本存储库|
+|[Insight AI — An Automated Machine Learning & Forecasting Platform](https://www.kaggle.com/writeups/lovepreetlnu/insight-ai-an-automated-machine-learning-and-forec)|上传任何数据集，自动检测问题类型，训练模型，并通过部署的机器学习系统生成预测|
 |[graph_nets](https://github.com/deepmind/graph_nets)|在Tensorflow中构建图网|
 |[Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021/2022/2023春季机器学习课程课件及作业|
 |[awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)|在这里，您可以获得所有的量子机器学习基础知识，算法，学习材料，项目和项目的描述|
@@ -227,6 +234,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[Twitter Hashtag Prediction Project using Machine learning](https://techvidvan.com/tutorials/twitter-hashtag-prediction-machine-learning/)|分析有关天气预报的推文，然后预测与这些推文相关的所有标签|
 |[awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)|多模态机器学习研究课题的阅读书目|
 |[ggml](https://github.com/ggml-org/ggml)|张量库用于机器学习|
+|[Iris Dataset – Neural Network](https://www.kaggle.com/writeups/sagnikdasafk/iris-dataset-neural-network)|Iris数据集是机器学习和神经网络研究中最流行的数据集之一|
 |[Spam Detection using SVM](https://techvidvan.com/tutorials/spam-detection-using-svm/)|基于SVM分类器构建一个SMS垃圾邮件检测器|
 |[AI-ML-Roadmap-from-scratch](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)|熟练掌握人工智能、机器学习、生成式人工智能、深度学习、数据科学、自然语言处理、rei&help；|
 |[DeepFake Detection using Convolutional Neural Networks](https://techvidvan.com/tutorials/deepfake-detection-using-cnn/)|deepfake检测系统用于检测图像是真实图像还是deepfake图像|
@@ -236,6 +244,8 @@ lp-beginner-projects)|nlp初学者项目|
 |[Crop Yield Prediction with Machine Learning using Python](https://techvidvan.com/tutorials/crop-yield-prediction-python-machine-learning/)|进行作物产量预测分析|
 |[Extract Text from Image with Python & OpenCV](https://techvidvan.com/tutorials/extract-text-from-image-with-python-opencv/)|基于openCV和tesseract从图像中提取文本内容|
 |[ml-workspace](https://github.com/ml-tooling/ml-workspace)|基于web的一体化IDE，专门用于机器学习和数据科学|
+|[Personality Prediction System Through CV Analysis Using Machine Learning](https://www.kaggle.com/writeups/jisminjose/personality-prediction-system-through-cv-analysis)|这个项目通过使用机器学习技术分析一个人的简历来预测他的个性特征|
+|[Human Age, Gender and Ethnicity Prediction using Machine Learning Algorithms](https://www.kaggle.com/writeups/tefnaminta/human-age-gender-and-ethnicity-prediction-using-m)|使用机器学习算法的图像预测系统|
 |[Real-Time Face Detection & Recognition using OpenCV](https://techvidvan.com/tutorials/face-detection-recognition-opencv-python/)|使用Python的OpenCV和face_recognition库构建一个人脸检测和人脸识别项目|
 |[Machine Learning Weather Prediction – Forecasting the Future](https://techvidvan.com/tutorials/machine-learning-weather-prediction/)|预测天气状况|
 |[Machine Learning Parkinson’s Disease Detection Project](https://techvidvan.com/tutorials/machine-learning-parkinsons-disease-detection-project/)|帕金森病检测项目|
@@ -265,6 +275,8 @@ lp-beginner-projects)|nlp初学者项目|
 |[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
 | [Machine Learning Projects Repository](https://github.com/shsarv/Machine-Learning-Projects?tab=readme-ov-file) | 这个集合包含了17个项目，展示了机器学习、深度学习、自然语言处理（NLP）和计算机视觉中的核心概念 |
 |[cuml](https://github.com/rapidsai/cuml)|RAPIDS机器学习库|
+|[Intrusion Detection System](https://www.kaggle.com/writeups/ujjwalks9/intrusion-detection-system)|利用机器学习和深度学习构建入侵检测系统，分析网络流量，准确检测恶意活动|
+|[Student Performance Prediction using Machine Learning](https://www.kaggle.com/writeups/princejaswanth/student-performance-prediction-using-machine-learn)|使用机器学习预测学生成绩|
 |[MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)|Python笔记本与机器学习和深度学习的例子与Azure机器学习Python SDK|
 |[tsai](https://github.com/timeseriesAI/tsai)|时间序列时间序列深度学习机器学习 |
 |[tensorwatch](https://github.com/microsoft/tensorwatch)|Python机器学习和数据科学的调试，监控和可视化|
@@ -317,19 +329,26 @@ lp-beginner-projects)|nlp初学者项目|
 |[Custom Object Detection with YOLO V5](https://data-flair.training/blogs/custom-object-detection-yolo/)|目标检测项目|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全机器学习|
 |[AirSim](https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于虚幻引擎的开源模拟器，适用于Microsoft AI和Research的自动驾驶交通工具|
+|[Bitcoin Price Prediction with Machine Learning](https://www.kaggle.com/writeups/alamgirkhan48692/bitcoin-price-prediction-with-machine-learning)|用机器学习预测比特币价格|
 |[causalml](https://github.com/uber/causalml)|隆起建模和因果推理与机器学习算法|
 |[watermark-removal](https://github.com/zuruoke/watermark-removal)|一种机器学习图像绘制任务，本能地从与地面真实图像无法区分的图像中去除水印|
 |[Real-Time Face Mask Detector with Python, OpenCV, Keras](https://data-flair.training/blogs/face-mask-detection-with-python/)|实时人脸检测项目|
 |[Real-time Pedestrian Detection using Python & OpenCV](https://data-flair.training/blogs/pedestrian-detection-python-opencv/)|实时行人检测项目|
 |[plexe](https://github.com/plexe-ai/plexe)|根据提示构建机器学习模型|
+|[Job-FIT-AI](https://www.kaggle.com/writeups/mlops34/job-fit-ai)|一个人工智能的工作匹配系统，可以解析简历并将候选人与角色匹配，使用XGBoost预测匹配分数|
+|[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险。|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
 |[facets](https://github.com/PAIR-code/facets?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|机器学习数据集的可视化|
 |[style2paints](https://github.com/lllyasviel/style2paints?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|AI图像着色|
 |[Real-time Hand Gesture Recognition using TensorFlow & OpenCV](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)|使用OpenCV和Python中的MediaPipe框架和Tensorflow制作一个实时手势识别器|
 |[grobid](https://github.com/grobidOrg/grobid)|从学术文献中提取信息的机器学习软件|
+|[Heart Disease Prediction using Machine Learning](https://www.kaggle.com/writeups/sarthakbhardwaj45/heart-disease-prediction-using-machine-learning)|一个端到端机器学习项目，使用患者健康指标和分类模型预测心脏病的存在|
 |[papers](https://github.com/aleju/papers)|机器学习论文摘要|
+|[Car Resale Price Prediction using Machine Learning](https://www.kaggle.com/writeups/christinastalin/car-resale-price-prediction-using-machine-learning)|利用机器学习预测汽车转售价格|
+|[Titanic Survival Prediction using Machine Learning](https://www.kaggle.com/writeups/muhammadumairazeem/titanic-survival-prediction-using-machine-learning)|利用机器学习预测泰坦尼克号的生存|
 |[Augmentor](https://github.com/mdbloice/Augmentor)|用于机器学习的Python图像增强库|
+|[Machine Learning Approaches for Predicting Spinal Disorders](https://www.kaggle.com/writeups/duncanskilton/machine-learning-approaches-for-predicting-spinal)|我们探讨了几种机器学习模型在使用生物力学特征诊断脊柱疾病方面的有效性|
 |[ManimML](https://github.com/helblazer811/ManimML)|ManimML是一个项目，专注于与Manim社区图书馆一起提供常见机器学习概念的动画和可视化|
 |[fast-style-transfer](https://github.com/lengstrom/fast-style-transfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的快速风格转移|
 |[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
@@ -339,10 +358,16 @@ lp-beginner-projects)|nlp初学者项目|
 |[Build a Movie Recommendation System in Python using Machine Learning](https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/)|电影推荐系统|
 |[Machine Learning Project – Bird Species Identification](https://techvidvan.com/tutorials/machine-learning-bird-species-identification/)|根据鸟类的外观对不同种类的鸟类进行识别和分类|
 |[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
+|[Automatic Garbage Classification Using Machine Learning](https://www.kaggle.com/writeups/sujalbist/automatic-garbage-classification-using-machine-lea)|使用机器学习的自动垃圾分类|
 |[explainerdashboard](https://github.com/oegedijk/explainerdashboard)|快速构建可解释的人工智能仪表板，显示所谓的“黑匣子”机器学习模型的内部工作原理|
 |[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
+|[Phishing Websites Prediction Using Machine Learning](https://www.kaggle.com/writeups/mdfujaelahmed/phishing-websites-prediction-using-machine-learnin)|利用机器学习预测钓鱼网站|
+|[Predicting Student Performance Using Machine Learning](https://www.kaggle.com/writeups/ajmiraribam/predicting-student-performance-using-machine-learn)|使用机器学习预测学生表现|
 |[Flower Recognition using CNN](https://projectgurukul.org/flower-recognition-using-cnn/)|自动识别花的图像，并告诉花的名字|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
+|[Banking Fraud Detection – Machine Learning Pipeline](https://www.kaggle.com/writeups/karthikavinu/fraud-detection)|使用监督ML模型检测欺诈性银行交易，处理严重的类不平衡和大规模表格数据|
+|[Predicting Diabetes with Machine Learning](https://www.kaggle.com/writeups/mohammedhamedibrahim/predicting-diabetes-with-machine-learning)|用机器学习预测糖尿病|
+|[diabetes classifications using machine learning](https://www.kaggle.com/writeups/tasniasany345/diabetes-classifications-using-machine-learning)|使用机器学习进行糖尿病分类|
 |[Food Classification using Deep Learning](https://projectgurukul.org/food-classification-using-deep-learning/)|食物分类系统|
 |[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
 |[face_recognition](https://github.com/ageitgey/face_recognition?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|全世界最简单的面部识别API，基于Python与命令行|
@@ -353,7 +378,9 @@ lp-beginner-projects)|nlp初学者项目|
 |[Develop LSTM Models for Time Series Forecasting](https://nixustechnologies.com/lstm-time-series-forecasting/)|时间序列预测模型|
 |[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
 |[computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)|Udacity的计算机视觉纳米学位的练习和项目集|
+|[Machine Learning: Algorithmic Trading Strategies](https://www.kaggle.com/writeups/justinrattu/machine-learning-algorithmic-trading-strategies)|使用机器学习（ML）算法确定指数运动和交易策略（QQQ）|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
+|[From Data to Diagnosis: How Machine Learning Can Help Prevent Strokes](https://www.kaggle.com/writeups/adeyemmi/from-data-to-diagnosis-how-machine-learning-can-h)|探索像Random Forest、XGBoost和LightGBM这样的集成学习模型如何从医疗数据中预测中风风险|
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
 |[pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)|PyTorch Geometric Temporal：基于神经机器学习模型的时空信号处理（CIKM 2021）|
 |[facenet](https://github.com/davidsandberg/facenet)|人脸识别使用Tensorflow|
@@ -385,6 +412,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[Machine-Learning-Interviews](https://github.com/alirezadir/machine-learning-interviews)|机器学习技术面试|
 | [Machine Learning Projects](https://github.com/anujvyas/Machine-Learning-Projects)|包含多个算法类的机器学习项目 |
 |[best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)|机器学习Python库的排名列表，每周更新一次|
+|[Evasion Detection in Cyber Network Operations using Machine Learning](https://www.kaggle.com/writeups/kevinlazaruscode/evasion-detection-in-cyber-network-operations-usin)|利用机器学习的网络操作逃避检测|
 |[ml-class](https://github.com/lukas/ml-class)|为工程师设计的机器学习课程和教学项目|
 |[Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)|有关机器学习，深度学习，人工智能，博弈论，强化学习的高引用和有用的论文|
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测模型 |
@@ -397,13 +425,21 @@ lp-beginner-projects)|nlp初学者项目|
 |[Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)|基于OpenCV &； Keras的驾驶员困倦检测系统|
 |[Python Project on Traffic Signs Recognition with 95% Accuracy using CNN & Keras](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)|基于CNN &； Keras的交通标志识别项目|
 |[Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|一个有用的5页机器学习备忘单，帮助考试复习，面试准备，以及介于两者之间的任何事情|
+|[My AI & Machine Learning Journey](https://www.kaggle.com/writeups/tabasumusman/my-ai-and-machine-learning-journey)|记录我成为人工智能工程师的过程|
+|[From Kaggle to Production: Diabetes Prediction App with FastAPI & Python](https://www.kaggle.com/writeups/shahfahadhashmi/from-kaggle-to-production-diabetes-prediction-app)|端到端糖尿病预测系统，该系统使用机器学习并部署了FastAPI|
+|[IVF Outcome Prediction with Machine Learning](https://www.kaggle.com/writeups/machinemuse/ivf-outcome-prediction-with-machine-learning)|用机器学习预测体外受精结果|
 |[pattern_classification](https://github.com/rasbt/pattern_classification)|解决和理解机器学习和模式分类任务的教程和示例的集合|
 |[Python based Project – Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)|基于Python &ndash的图像标题生成器的项目|
 |[sonnet](https://github.com/google-deepmind/sonnet?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的神经网络库|
 |[Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)|提供对日常使用的各种技术的清晰理解，涵盖广泛的机器学习主题|
 |[interpret](https://github.com/interpretml/interpret)|拟合可解释的模型，解释一下黑箱机器学习|
+|[ML-Panic-Attack-Detection](https://www.kaggle.com/writeups/samrobinsinghe/ml-panic-attack-detection)|ML-Panic-Attack-Detection是一款基于fastapi的机器学习应用程序，它使用经过训练的分类模型来预测恐慌发作的风险。|
+|[Detecting Network Intrusions Using Machine Learning](https://www.kaggle.com/writeups/alwahdisoft/detecting-network-intrusions-using-machine-learnin)|使用机器学习检测网络入侵|
 |[ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)|机器学习的系统设计模式|
+|[ITC6103 – Applied Machine Learning](https://www.kaggle.com/writeups/chkapsalis/itc6103-applied-machine-learning)|监督和无监督机器学习技术的综合应用|
+|[Machine Learning Classification Project](https://www.kaggle.com/writeups/pavitrayakkali/machine-learning-classification-project)|各种算法和技术构建和优化机器学习分类模型|
 |[ML](https://github.com/RubixML/ML)|PHP语言的高级机器学习和深度学习库|
+|[AI-DRIVEN MACHINE LEARNING ALGORITHM SUITE](https://www.kaggle.com/writeups/raeesbilal/ai-driven-machine-learning-algorithm-suite)|ai驱动的机器学习算法套件|
 |[A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)|包含来自80多家公司的300个案例研究|
 |[Ai-Learn](https://github.com/tangyudi/Ai-Learn)|机器学习面试路线图|
 |[ml-workspace](https://github.com/ml-tooling/ml-workspace)|基于web的集成开发环境，专门用于机器学习和数据科学|
@@ -426,12 +462,15 @@ lp-beginner-projects)|nlp初学者项目|
 |[Deep Learning Pneumonia Detection Project using Chest X-ray Images](https://techvidvan.com/tutorials/deep-learning-pneumonia-detection/)|通过观察胸部x光图像来区分患者是正常还是患有肺炎|
 |[Vehicle Counting, Classification & Detection using OpenCV & Python](https://techvidvan.com/tutorials/opencv-vehicle-detection-classification-counting/)|基于OpenCV构建一个高级车辆检测和分类项目|
 |[tfjs-core](https://github.com/tensorflow/tfjs-core?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|用于网络的硬件加速机器智能库|
+|[Identifying Patterns and Trends in Campus Placement Data using Machine Learning](https://www.kaggle.com/writeups/harshkesharwani79/identifying-patterns-an-trends-in-campus-placement)|使用机器学习识别校园安置数据的模式和趋势|
+|[The Latest Trends in Artificial Intelligence and Data Science](https://www.kaggle.com/writeups/jeevasri161127/the-latest-trends-in-artificial-intelligence-and-d)|探索人工智能和数据科学如何在2026年塑造创新、自动化和智能决策。|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
 |[DeepFake Detection using Convolutional Neural Networks](https://techvidvan.com/tutorials/deepfake-detection-using-cnn/)|deepfake检测系统用于检测图像是真实图像还是deepfake图像|
 |[Image Segmentation using Machine Learning](https://techvidvan.com/tutorials/image-segmentation-machine-learning/)|提供被检测物体的精确轮廓|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
 |[rasa](https://github.com/RasaHQ/rasa)|AI代理原型的新互动平台|
 |[Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)|定量/算法交易资源，重点是机器学习|
+|[Machine Learning: Employee retention analysis with python](https://www.kaggle.com/writeups/rachelcx888/employee-retention-analysis-with-python)|机器学习：用python进行员工留存分析|
 |[ml-agents](https://github.com/Unity-Technologies/ml-agents)|Unity机器学习代理工具包（ML-Agents）是一个开源项目|
 |[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
 |[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
@@ -446,6 +485,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[video2x](https://github.com/k4yt3x/video2x)|基于机器学习的视频超分辨率和帧插值框架|
 |[Alink](https://github.com/alibaba/Alink)|Alink是基于Flink的机器学习算法平台，由阿里巴巴计算平台PAI团队开发|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
+|[Data Science Practitioner | Python | ML | Turning Data into Insights](https://www.kaggle.com/writeups/vivekmohanbhatt/data-science-practitioner-python-ml-turning)|数据科学从业者| Python | ML |将数据转化为见解|
 |[Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)|基于TensorFlow 2.0的高级NLP项目|
 |[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
