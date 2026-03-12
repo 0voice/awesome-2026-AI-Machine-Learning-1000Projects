@@ -1,5 +1,8 @@
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
+🌍 **其他语言 / Other Languages**：
+- [English](README.en.md)
+- [中文](README.md)
 <p align="center">
   💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖 入门 / 提升 / 毕设 / 面试  全场景
 </p>
@@ -177,8 +180,8 @@ lp-beginner-projects)|nlp初学者项目|
 | 项目 | 简介 |
 |--------|------|
 |[homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)|用Python实现的流行机器学习算法示例|
-| [21 Machine Learning Projects – Datasets Included](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html) | 包含21个机器学习项目和数据集 || [21 Machine Learning Projects – Datasets Included包括21个机器学习项目和数据集](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html) | 包含21个机器学习项目和数据集 |
-| [Top 310+ Machine Learning Projects for 2025 [Source Code Included]](https://data-flair.training/blogs/machine-learning-project-ideas/) | 包含机器学习20个项目与数据集 || [Top 310  Machine Learning Projects for 2025 [Source Code Included   包含的源代码]](https://data-flair.training/blogs/machine-learning-project-ideas/) | 包含机器学习20个项目与数据集 |
+| [21 Machine Learning Projects – Datasets Included](https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html) | 包含21个机器学习项目和数据集 |
+| [Top 310+ Machine Learning Projects for 2025 [Source Code Included]](https://data-flair.training/blogs/machine-learning-project-ideas/) | 包含机器学习20个项目与数据集 |
 | [Deep_and_Machine_Learning_Projects](https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects)|包含多个深度学习相关项目 |
 |[MLE-Flashcards](https://github.com/b7leung/mle-flashcards)|包含多个机器学习提升项目|
 |[shap](https://github.com/shap/shap)|用博弈论方法，解释任何机器学习模型的输出|
@@ -195,7 +198,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[Music Genre Classification](https://data-flair.training/blogs/python-project-music-genre-classification/)|音乐类型分类|
 |[Text Summarization using Machine Learning](https://data-flair.training/blogs/machine-learning-text-summarization/)|文本摘要项目|
 |[Sentiment Analysis in Python using Machine Learning](https://data-flair.training/blogs/python-sentiment-analysis/)|情感分析项目|
-|[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目||[Credit Card Fraud Detection with Python & Machine Learning信用卡欺诈检测与Python机器学习](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
+|[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
 |[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目||[Deep Learning Project – Handwritten Digit Recognition using Python使用Python的手写数字识别深度学习项目](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
 |[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)|可视化分析和诊断工具，方便机器学习模型的选择|
 |[FlappyLearning](https://github.com/xviniette/FlappyLearning)|通过机器学习程序学习玩《Flappy Bird》|
@@ -206,7 +209,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)|在这里，您可以获得所有的量子机器学习基础知识，算法，学习材料，项目和项目的描述|
 |[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)|学习机器学习和深度学习的资源|
 |[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)|顶级深度学习项目及教程|
-|[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目||[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
+|[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
 |[Emojify – Create your own emoji with Deep Learning](https://data-flair.training/blogs/create-emoji-with-deep-learning/)|对人类的面部表情进行分类，过滤并映射相应的表情符号或头像|
 |[Handwritten Digit Recognition with Python & CNN](https://techvidvan.com/tutorials/handwritten-digit-recognition-with-python-cnn/)|基于CNN的手写数字识别|
 |[Sentiment Analysis using Python [with source code]](https://techvidvan.com/tutorials/python-sentiment-analysis/)|检查一段文字中表达的情感|
