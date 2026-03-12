@@ -1,8 +1,7 @@
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
 
-- [English](README.en.md)
-- [中文](README.md)
+- [English](README.en.md)- [中文](README.md)
 <p align="center">
   💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖 入门 / 提升 / 毕设 / 面试  全场景
 </p>
