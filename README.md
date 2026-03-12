@@ -79,6 +79,7 @@
 |[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
 |[learning-to-learn](https://github.com/deepmind/learning-to-learn)|学习如何在TensorFlow中学习|
 |[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
+|[Early Prediction of Health & Lifestyle Diseases](https://www.kaggle.com/writeups/mohitrajdeo/early-prediction-of-health-and-lifestyle-diseases)|该工具使用机器学习NLP对各种健康状况提供早期预测和分析|
 |[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|一些基本的机器学习模型和算法|
 |[Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)|《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码|
 |[DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)|深度学习教程笔记和代码|
@@ -139,6 +140,7 @@
 |[dmls-book](https://github.com/chiphuyen/dmls-book)|《设计机器学习系统》一书的摘要和资源|
 |[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
 |[Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML)|学习机器学习数学的资源集合|
+|[Silver Prices Analysis & Forecasting](https://www.kaggle.com/writeups/hassanjameelahmed/silver-prices-analysis-and-forecasting)|该项目分析了过去10年的白银价格趋势，并根据历史市场数据提供价格预测|
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
 |[faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|
@@ -165,15 +167,15 @@
 |[Detect Objects of Similar Color using OpenCV in Python](https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/)|使用OpenCV检测相似颜色对象|
 |[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
 |[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
+|[Bengaluru Real Estate Price](https://www.kaggle.com/writeups/likhithanagasri01/bengaluru-real-estate-price)|利用数据科学预测班加罗尔房地产价格|
 |[igel](https://github.com/nidhaloff/igel)|机器学习工具，允许您训练，测试和使用模型，而无需编写代码|
 |[Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)|深度学习/人工智能和机器学习教程的综合列表-迅速扩展到AI/深度学习领域|
 |[Gaussian Mixture Model in Machine Learning](https://pythongeeks.org/gaussian-mixture-model-in-machine-learning/)|机器学习中的高斯混合模型|
-|[K-means Clustering in Machine Learning](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|K-Means聚类||[机器学习中的K-means聚类](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|
+|[K-means Clustering in Machine Learning](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|K-Means聚类|
 |[machinelearning-samples](https://github.com/dotnet/machinelearning-samples)|ML.NET的示例，一个开源和跨平台的。net机器学习框架|
 |[Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python)|包含24个小型机器学习项目|
 |[Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code)|包含24个数据分析项目|
-|[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目||[nlp-beginner-projects](https://github.com/positivepeng
-lp-beginner-projects)|nlp初学者项目|
+|[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目|
 |["Beginner’s Guide: Iris Dataset Classification in Python "](https://www.kaggle.com/writeups/umaimaiqbal/beginners-guide-iris-dataset-classification-in-pyt)|《初学者指南：Iris Dataset Classification in Python》|
 |[machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)|christianversloot的机器学习的文章|
 |[Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|常见机器学习算法的Python代码|
@@ -220,13 +222,14 @@ lp-beginner-projects)|nlp初学者项目|
 |[Text Summarization using Machine Learning](https://data-flair.training/blogs/machine-learning-text-summarization/)|文本摘要项目|
 |[Sentiment Analysis in Python using Machine Learning](https://data-flair.training/blogs/python-sentiment-analysis/)|情感分析项目|
 |[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
-|[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目||[Deep Learning Project – Handwritten Digit Recognition using Python使用Python的手写数字识别深度学习项目](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
+|[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
 |[yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)|可视化分析和诊断工具，方便机器学习模型的选择|
 |[FlappyLearning](https://github.com/xviniette/FlappyLearning)|通过机器学习程序学习玩《Flappy Bird》|
 |[machinelearning](https://github.com/ljpzzz/machinelearning)|刘建平Pinard的博客配套代码|
 |[aerosolve](https://github.com/airbnb/aerosolve)|一个为人类设计的机器学习包|
 |[prml](https://github.com/gerdm/prml)|为Christopher Bishop编写的《模式识别和机器学习》一书提供的Python笔记、代码和笔记本存储库|
 |[Insight AI — An Automated Machine Learning & Forecasting Platform](https://www.kaggle.com/writeups/lovepreetlnu/insight-ai-an-automated-machine-learning-and-forec)|上传任何数据集，自动检测问题类型，训练模型，并通过部署的机器学习系统生成预测|
+|[Rhea Soil Nutrient Prediction Challenge – Project Writeup](https://www.kaggle.com/writeups/samyakrajbayar/rhea-soil-nutrient-prediction-challenge-proje)|这个项目是基于在Zindi上主持的Rhea土壤养分预测挑战|
 |[graph_nets](https://github.com/deepmind/graph_nets)|在Tensorflow中构建图网|
 |[AI-Powered Personal Fitness Coach](https://www.kaggle.com/writeups/hmnshudhmn24/ai-powered-personal-fitness-coach)|智能锻炼建议量身定制您的健身水平|
 |[Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021/2022/2023春季机器学习课程课件及作业|
@@ -240,6 +243,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[Twitter Hashtag Prediction Project using Machine learning](https://techvidvan.com/tutorials/twitter-hashtag-prediction-machine-learning/)|分析有关天气预报的推文，然后预测与这些推文相关的所有标签|
 |[awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)|多模态机器学习研究课题的阅读书目|
 |[ggml](https://github.com/ggml-org/ggml)|张量库用于机器学习|
+|[Modelo de Risco Corporativo (MVP1)](https://www.kaggle.com/writeups/marconiv/modelo-de-risco-corporativo-mvp1-corporate-cre) |企业信用风险模型MVP1|
 |[Loan Approval Prediction Kaggle Competition](https://www.kaggle.com/writeups/sayakchatterjee9/loan-approval-prediction-kaggle-competition)|Kaggle贷款审批预测竞赛的机器学习解决方案，准确率达到88%|
 |[Iris Dataset – Neural Network](https://www.kaggle.com/writeups/sagnikdasafk/iris-dataset-neural-network)|Iris数据集是机器学习和神经网络研究中最流行的数据集之一|
 |[Spam Detection using SVM](https://techvidvan.com/tutorials/spam-detection-using-svm/)|基于SVM分类器构建一个SMS垃圾邮件检测器|
@@ -341,6 +345,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[AirSim](https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于虚幻引擎的开源模拟器，适用于Microsoft AI和Research的自动驾驶交通工具|
 |[Bitcoin Price Prediction with Machine Learning](https://www.kaggle.com/writeups/alamgirkhan48692/bitcoin-price-prediction-with-machine-learning)|用机器学习预测比特币价格|
 |[causalml](https://github.com/uber/causalml)|隆起建模和因果推理与机器学习算法|
+|[Children’s Speech Recognition System](https://www.kaggle.com/writeups/samyakrajbayar/childrens-speech-recognition-system)|儿童语音识别系统|
 |[watermark-removal](https://github.com/zuruoke/watermark-removal)|一种机器学习图像绘制任务，本能地从与地面真实图像无法区分的图像中去除水印|
 |[Real-Time Face Mask Detector with Python, OpenCV, Keras](https://data-flair.training/blogs/face-mask-detection-with-python/)|实时人脸检测项目|
 |[Real-time Pedestrian Detection using Python & OpenCV](https://data-flair.training/blogs/pedestrian-detection-python-opencv/)|实时行人检测项目|
@@ -423,6 +428,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[ML Interview Questions with Answers](https://pythongeeks.org/ml-interview-questions-with-answers/)|面试问答2|
 |[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识|
 |[machine-learning-interview](https://github.com/khangich/machine-learning-interview)|机器学习面试的最小可行学习计划|
+|[AI Job Landscape – 2025](https://www.kaggle.com/writeups/alexanderpascualc/ai-job-landscape-2025)|AI/ML招聘趋势、技能需求和薪资基准的行业快照|
 |[Machine-Learning-Interviews](https://github.com/alirezadir/machine-learning-interviews)|机器学习技术面试|
 | [Machine Learning Projects](https://github.com/anujvyas/Machine-Learning-Projects)|包含多个算法类的机器学习项目 |
 |[best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)|机器学习Python库的排名列表，每周更新一次|
@@ -500,7 +506,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[video2x](https://github.com/k4yt3x/video2x)|基于机器学习的视频超分辨率和帧插值框架|
 |[Alink](https://github.com/alibaba/Alink)|Alink是基于Flink的机器学习算法平台，由阿里巴巴计算平台PAI团队开发|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
-|[Data Science Practitioner | Python | ML | Turning Data into Insights](https://www.kaggle.com/writeups/vivekmohanbhatt/data-science-practitioner-python-ml-turning)|数据科学从业者| Python | ML |将数据转化为见解|
+|[Data Science Practitioner Turning Data into Insights](https://www.kaggle.com/writeups/vivekmohanbhatt/data-science-practitioner-python-ml-turning)|数据科学从业者,将数据转化为见解|
 |[Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)|基于TensorFlow 2.0的高级NLP项目|
 |[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
