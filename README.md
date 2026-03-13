@@ -155,6 +155,7 @@
 |[angel](https://github.com/Angel-ML/angel)|一种灵活而强大的大规模机器学习参数服务器|
 |[feature-selector](https://github.com/WillKoehrsen/feature-selector)|特征选择器是一种用于机器学习数据集降维的工具|
 |[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|学习成为机器学习工程师的完整每日计划|
+|[Projects](https://github.com/a96666/Projects)|此存储库包含Capgemini培训计划期间开发的所有项目文件、笔记本和资源。它侧重于构建和帮助|
 |[tensorflow](https://github.com/tensorflow/tensorflow)|TensorFlow是一个端到端的开源平台 用于机器学习|
 |[Hill Climbing in Machine Learning — Explained Like You’re 10](https://www.kaggle.com/writeups/kumarkatariya/hill-climbing-in-machine-learning-explained-like)|像你一样解释机器学习中的爬山|
 |[pysc2](https://github.com/google-deepmind/pysc2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|星际争霸II学习环境|
@@ -180,6 +181,7 @@
 |[machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)|christianversloot的机器学习的文章|
 |[Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|常见机器学习算法的Python代码|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
+|[actuarial-python-lab](https://github.com/kongkip/actuarial-python-lab)|精算模型的精选集，从数学理论转化为生产就绪的Python|
 |[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
 |[textgenrnn](https://github.com/minimaxir/textgenrnn)|一个简单的神经网络|
 |[DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|深度学习示例|
@@ -343,6 +345,7 @@
 |[Custom Object Detection with YOLO V5](https://data-flair.training/blogs/custom-object-detection-yolo/)|目标检测项目|
 |[Adeptiv AI - AI Governance](https://www.kaggle.com/writeups/adeptivai/adeptiv-ai-ai-governance)|人工智能治理副驾驶|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全机器学习|
+|[parkinsons-voice-classification](https://github.com/jujubebe4949/parkinsons-voice-classification)|使用声音特征对帕金森病进行分类的机器学习项目|
 |[AirSim](https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于虚幻引擎的开源模拟器，适用于Microsoft AI和Research的自动驾驶交通工具|
 |[Bitcoin Price Prediction with Machine Learning](https://www.kaggle.com/writeups/alamgirkhan48692/bitcoin-price-prediction-with-machine-learning)|用机器学习预测比特币价格|
 |[causalml](https://github.com/uber/causalml)|隆起建模和因果推理与机器学习算法|
@@ -352,7 +355,8 @@
 |[Real-time Pedestrian Detection using Python & OpenCV](https://data-flair.training/blogs/pedestrian-detection-python-opencv/)|实时行人检测项目|
 |[plexe](https://github.com/plexe-ai/plexe)|根据提示构建机器学习模型|
 |[Job-FIT-AI](https://www.kaggle.com/writeups/mlops34/job-fit-ai)|一个人工智能的工作匹配系统，可以解析简历并将候选人与角色匹配，使用XGBoost预测匹配分数|
-|[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险。|
+|[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险|
+|[Network-Packet-Sniffer-Traffic-Analyse-GUI](https://github.com/mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI)|实时捕获和分析实时网络流量，使用基于规则、mitre映射和机器学习来检测可疑活动|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
 |[facets](https://github.com/PAIR-code/facets?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|机器学习数据集的可视化|
@@ -380,6 +384,8 @@
 |[Phishing Websites Prediction Using Machine Learning](https://www.kaggle.com/writeups/mdfujaelahmed/phishing-websites-prediction-using-machine-learnin)|利用机器学习预测钓鱼网站|
 |[Predicting Student Performance Using Machine Learning](https://www.kaggle.com/writeups/ajmiraribam/predicting-student-performance-using-machine-learn)|使用机器学习预测学生表现|
 |[Flower Recognition using CNN](https://projectgurukul.org/flower-recognition-using-cnn/)|自动识别花的图像，并告诉花的名字|
+|[Smart-Attendance-System](https://github.com/AtulBX1/Smart-Attendance-System)|使用机器学习的智能出勤系统，根据出勤趋势、行为模式和异常情况预测有风险的学生|
+|[LATENT-TB-SW-ML-38](https://github.com/KAKOOZAMICHAEL/LATENT-TB-SW-ML-38)|这个项目是关于整合机器学习来解决政府在治疗活动性结核病上浪费大量资源的负担|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
 |[Banking Fraud Detection – Machine Learning Pipeline](https://www.kaggle.com/writeups/karthikavinu/fraud-detection)|使用监督ML模型检测欺诈性银行交易，处理严重的类不平衡和大规模表格数据|
 |[Predicting Diabetes with Machine Learning](https://www.kaggle.com/writeups/mohammedhamedibrahim/predicting-diabetes-with-machine-learning)|用机器学习预测糖尿病|
@@ -393,6 +399,8 @@
 |[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|PyTorch图像转换|
 |[magenta](https://github.com/magenta/magenta?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|通过机器智能生成的音乐和艺术|
 |[Develop LSTM Models for Time Series Forecasting](https://nixustechnologies.com/lstm-time-series-forecasting/)|时间序列预测模型|
+|[Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker](https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker)|交易机器人使用api在币安等交易所自动进行加密交易。它使用区块链&hellip；跟踪比特币、以太坊和莱特币|
+|[Air-Quality-Prediction](https://github.com/arjunyeolekar/Air-Quality-Prediction)|利用机器学习进行空气质量预测。该项目使用Python和机器学习技术分析环境污染数据|
 |[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
 |[computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)|Udacity的计算机视觉纳米学位的练习和项目集|
 |[Machine Learning: Algorithmic Trading Strategies](https://www.kaggle.com/writeups/justinrattu/machine-learning-algorithmic-trading-strategies)|使用机器学习（ML）算法确定指数运动和交易策略（QQQ）|
