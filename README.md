@@ -356,8 +356,10 @@
 |[Real-Time Face Mask Detector with Python, OpenCV, Keras](https://data-flair.training/blogs/face-mask-detection-with-python/)|实时人脸检测项目|
 |[Real-time Pedestrian Detection using Python & OpenCV](https://data-flair.training/blogs/pedestrian-detection-python-opencv/)|实时行人检测项目|
 |[plexe](https://github.com/plexe-ai/plexe)|根据提示构建机器学习模型|
+|[AICW_microsoft_internship_python_project-](https://github.com/tulasibasil/AICW_microsoft_internship_python_project-)|该项目使用机器学习来预测心力衰竭患者的生存，使用临床数据，如年龄、血压|
 |[Job-FIT-AI](https://www.kaggle.com/writeups/mlops34/job-fit-ai)|一个人工智能的工作匹配系统，可以解析简历并将候选人与角色匹配，使用XGBoost预测匹配分数|
 |[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险|
+|[Speaker-Independent-Speech-Emotion-Recognition](https://github.com/Kippus0s/Speaker-Independent-Speech-Emotion-Recognition)|我的学士学位期末项目的源代码，题为“研究机器学习和深度学习方法对语音情感的影响”|
 |[Network-Packet-Sniffer-Traffic-Analyse-GUI](https://github.com/mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI)|实时捕获和分析实时网络流量，使用基于规则、mitre映射和机器学习来检测可疑活动|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
