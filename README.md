@@ -369,11 +369,14 @@
 |[grobid](https://github.com/grobidOrg/grobid)|从学术文献中提取信息的机器学习软件|
 |[Heart Disease Prediction using Machine Learning](https://www.kaggle.com/writeups/sarthakbhardwaj45/heart-disease-prediction-using-machine-learning)|一个端到端机器学习项目，使用患者健康指标和分类模型预测心脏病的存在|
 |[papers](https://github.com/aleju/papers)|机器学习论文摘要|
+|[Ai-Trading-alert-Bot](https://github.com/martinsurgenorhynx-cmd/Ai-Trading-alert-Bot)|一个python机器人，可以让你在大多数加密货币交易所进行交易，并允许你通过机器学习优化你的策略|
 |[Car Resale Price Prediction using Machine Learning](https://www.kaggle.com/writeups/christinastalin/car-resale-price-prediction-using-machine-learning)|利用机器学习预测汽车转售价格|
 |[Titanic Survival Prediction using Machine Learning](https://www.kaggle.com/writeups/muhammadumairazeem/titanic-survival-prediction-using-machine-learning)|利用机器学习预测泰坦尼克号的生存|
 |[Augmentor](https://github.com/mdbloice/Augmentor)|用于机器学习的Python图像增强库|
 |[Machine Learning Approaches for Predicting Spinal Disorders](https://www.kaggle.com/writeups/duncanskilton/machine-learning-approaches-for-predicting-spinal)|我们探讨了几种机器学习模型在使用生物力学特征诊断脊柱疾病方面的有效性|
 |[ManimML](https://github.com/helblazer811/ManimML)|ManimML是一个项目，专注于与Manim社区图书馆一起提供常见机器学习概念的动画和可视化|
+|[ai-smart-energy-audit-system](https://github.com/M-Sanjay-IND/ai-smart-energy-audit-system)|一个人工智能驱动的物联网系统，用于监测和分析家庭能耗，使用ESP32传感器、树莓派网关、Flask bac&help；|
+|[Speaker-Independent-Speech-Emotion-Recognition](https://github.com/Kippus0s/Speaker-Independent-Speech-Emotion-Recognition)|学士学位期末项目的源代码，题为“研究机器学习和深度学习方法对语音情感的影响”|
 |[fast-style-transfer](https://github.com/lengstrom/fast-style-transfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的快速风格转移|
 |[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
 |[whereami](https://github.com/kootenpv/whereami)|使用WiFi信号和机器学习来预测你的位置|
