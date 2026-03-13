@@ -53,6 +53,16 @@
 |[funNLP](https://github.com/fighting41love/funNLP)|号称几乎最全的中文NLP资源库|
 |[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)|软件工程师的机器学习|
 |[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|包含了深度学习从基础到熟悉的教程和视频|
+| [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
+|[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)|Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习|
+| [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
+| [YouTube Trending Videos Analysis with Python](https://amanxai.com/2020/11/28/youtube-trending-videos-analysis-with-python/) | YouTube趋势视频分析 |
+|[Predicting Movie Popularity Using TMDB Dataset](https://www.kaggle.com/writeups/mianhamzaahmad/predicting-movie-popularity-using-tmdb-dataset)|一个机器学习项目，分析电影数据，根据投票、上映日期和其他特征预测受欢迎程度|
+|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测|
+|[Detect Objects of Similar Color using OpenCV in Python](https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/)|使用OpenCV检测相似颜色对象|
+|[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
+|[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
+|[Bengaluru Real Estate Price](https://www.kaggle.com/writeups/likhithanagasri01/bengaluru-real-estate-price)|利用数据科学预测班加罗尔房地产价格|
 |[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)|机器学习和深度学习教程|
 |[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|
 |[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
@@ -78,6 +88,7 @@
 |[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
 |[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
 |[learning-to-learn](https://github.com/deepmind/learning-to-learn)|学习如何在TensorFlow中学习|
+|[actuarial-python-lab](https://github.com/kongkip/actuarial-python-lab)|精算模型的精选集，从数学理论转化为生产就绪的Python|
 |[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
 |[Early Prediction of Health & Lifestyle Diseases](https://www.kaggle.com/writeups/mohitrajdeo/early-prediction-of-health-and-lifestyle-diseases)|该工具使用机器学习NLP对各种健康状况提供早期预测和分析|
 |[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|一些基本的机器学习模型和算法|
@@ -101,6 +112,7 @@
 |[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
 |[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
 |[Machine-Learning](https://github.com/DorsaRoh/Machine-Learning)| 从头开始学习机器学习|
+|[Obsidian](https://github.com/Brian454-nexus/Obsidian)|一个机器学习管道，将非结构化的“风险登记册”（pdf /Excel）转换为干净的表格数据|
 |[My 10-Day Machine Learning Learning Journey](https://www.kaggle.com/writeups/bittuagarwal23/my-10-day-machine-learning-learning-journey)|我的10天机器学习之旅|
 |[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
 |[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|机器学习框架、库和软件列表|
@@ -159,16 +171,6 @@
 |[tensorflow](https://github.com/tensorflow/tensorflow)|TensorFlow是一个端到端的开源平台 用于机器学习|
 |[Hill Climbing in Machine Learning — Explained Like You’re 10](https://www.kaggle.com/writeups/kumarkatariya/hill-climbing-in-machine-learning-explained-like)|像你一样解释机器学习中的爬山|
 |[pysc2](https://github.com/google-deepmind/pysc2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|星际争霸II学习环境|
-| [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
-|[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)|Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习|
-| [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
-| [YouTube Trending Videos Analysis with Python](https://amanxai.com/2020/11/28/youtube-trending-videos-analysis-with-python/) | YouTube趋势视频分析 |
-|[Predicting Movie Popularity Using TMDB Dataset](https://www.kaggle.com/writeups/mianhamzaahmad/predicting-movie-popularity-using-tmdb-dataset)|一个机器学习项目，分析电影数据，根据投票、上映日期和其他特征预测受欢迎程度|
-|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测|
-|[Detect Objects of Similar Color using OpenCV in Python](https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/)|使用OpenCV检测相似颜色对象|
-|[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
-|[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
-|[Bengaluru Real Estate Price](https://www.kaggle.com/writeups/likhithanagasri01/bengaluru-real-estate-price)|利用数据科学预测班加罗尔房地产价格|
 |[igel](https://github.com/nidhaloff/igel)|机器学习工具，允许您训练，测试和使用模型，而无需编写代码|
 |[Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)|深度学习/人工智能和机器学习教程的综合列表-迅速扩展到AI/深度学习领域|
 |[Gaussian Mixture Model in Machine Learning](https://pythongeeks.org/gaussian-mixture-model-in-machine-learning/)|机器学习中的高斯混合模型|
