@@ -68,6 +68,7 @@
 |[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
 |[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
 |[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
+|[fucking-Machine-Learning-Tutorials](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials)|机器学习和深度学习教程|
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
