@@ -414,6 +414,7 @@
 |[Banking Fraud Detection – Machine Learning Pipeline](https://www.kaggle.com/writeups/karthikavinu/fraud-detection)|使用监督ML模型检测欺诈性银行交易，处理严重的类不平衡和大规模表格数据|
 |[Predicting Diabetes with Machine Learning](https://www.kaggle.com/writeups/mohammedhamedibrahim/predicting-diabetes-with-machine-learning)|用机器学习预测糖尿病|
 |[diabetes classifications using machine learning](https://www.kaggle.com/writeups/tasniasany345/diabetes-classifications-using-machine-learning)|使用机器学习进行糖尿病分类|
+|[ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)|一个用于自动并行科学机器学习（SciML）的因果建模框架。计算机代数系统|
 |[Accident-Detection-and-Severity-Prediction-](https://github.com/satyasri-2006/Accident-Detection-and-Severity-Prediction-)|机器学习项目，使用RTA数据集预测道路事故的严重程度|
 |[Food Classification using Deep Learning](https://projectgurukul.org/food-classification-using-deep-learning/)|食物分类系统|
 |[Predicting miRNA Therapeutics for Cancer with Deep Learning](https://www.kaggle.com/writeups/abdullahalmarzan/mirna-therapeutics)|该项目涉及设计一个基于变压器的深度学习模型来识别优化的miRNA序列|
@@ -427,6 +428,7 @@
 |[Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker](https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker)|交易机器人使用api在币安等交易所自动进行加密交易。它使用区块链&hellip；跟踪比特币、以太坊和莱特币|
 |[Air-Quality-Prediction](https://github.com/arjunyeolekar/Air-Quality-Prediction)|利用机器学习进行空气质量预测。该项目使用Python和机器学习技术分析环境污染数据|
 |[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
+|[nilearn](https://github.com/nilearn/nilearn)|神经成像的机器学习|
 |[computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)|Udacity的计算机视觉纳米学位的练习和项目集|
 |[Machine Learning: Algorithmic Trading Strategies](https://www.kaggle.com/writeups/justinrattu/machine-learning-algorithmic-trading-strategies)|使用机器学习（ML）算法确定指数运动和交易策略（QQQ）|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
@@ -480,6 +482,7 @@
 |[Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)|基于OpenCV &； Keras的驾驶员困倦检测系统|
 |[Python Project on Traffic Signs Recognition with 95% Accuracy using CNN & Keras](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)|基于CNN &； Keras的交通标志识别项目|
 |[Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|一个有用的5页机器学习备忘单，帮助考试复习，面试准备，以及介于两者之间的任何事情|
+|[Finding-missing-person-using-AI](https://github.com/gaganmanku96/Finding-missing-person-using-AI)|这个项目的重点是追踪失踪人口。我们使用图像处理和机器学习以及Postgres数据库|
 |[My AI & Machine Learning Journey](https://www.kaggle.com/writeups/tabasumusman/my-ai-and-machine-learning-journey)|记录我成为人工智能工程师的过程|
 |[From Kaggle to Production: Diabetes Prediction App with FastAPI & Python](https://www.kaggle.com/writeups/shahfahadhashmi/from-kaggle-to-production-diabetes-prediction-app)|端到端糖尿病预测系统，该系统使用机器学习并部署了FastAPI|
 |[IVF Outcome Prediction with Machine Learning](https://www.kaggle.com/writeups/machinemuse/ivf-outcome-prediction-with-machine-learning)|用机器学习预测体外受精结果|
