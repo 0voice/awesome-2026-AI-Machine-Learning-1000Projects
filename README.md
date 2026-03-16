@@ -482,6 +482,7 @@
 |[greends-pml](https://github.com/isa-ulisboa/greends-pml)|机器学习导论课程ISA数据科学硕士研究生|
 |[deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|论文 “深度照片风格转换”的代码与数据|
 |[Project in Python – Breast Cancer Classification with Deep Learning](https://data-flair.training/blogs/project-in-python-breast-cancer-classification/)|基于深度学习的乳腺癌分类项目|
+|[pybroker](https://github.com/edtechre/pybroker)|使用机器学习的Python算法交易|
 |[Interesting Python Project of Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)|基于OpenCV进行性别和年龄检测|
 |[Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)|基于OpenCV &； Keras的驾驶员困倦检测系统|
 |[Python Project on Traffic Signs Recognition with 95% Accuracy using CNN & Keras](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)|基于CNN &； Keras的交通标志识别项目|
