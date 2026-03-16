@@ -369,6 +369,7 @@
 |[Job-FIT-AI](https://www.kaggle.com/writeups/mlops34/job-fit-ai)|一个人工智能的工作匹配系统，可以解析简历并将候选人与角色匹配，使用XGBoost预测匹配分数|
 |[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险|
 |[App-TW_Lottery](https://github.com/neophoeus/App-TW_Lottery)|一个高度先进的人工智能预测工具，用于台湾彩票|
+|[Finding-missing-person-using-AI](https://github.com/gaganmanku96/Finding-missing-person-using-AI)|这个项目的重点是追踪失踪人口。我们使用图像处理和机器学习以及Postgres数据库|
 |[Speaker-Independent-Speech-Emotion-Recognition](https://github.com/Kippus0s/Speaker-Independent-Speech-Emotion-Recognition)|我的学士学位期末项目的源代码，题为“研究机器学习和深度学习方法对语音情感的影响”|
 |[Network-Packet-Sniffer-Traffic-Analyse-GUI](https://github.com/mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI)|实时捕获和分析实时网络流量，使用基于规则、mitre映射和机器学习来检测可疑活动|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
