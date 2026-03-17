@@ -29,6 +29,7 @@
 | 📈 [机器学习 提升级](#机器学习-提升-级)     | 巩固算法基础、项目实战    | 
 | 🎓 [机器学习 毕设级](#机器学习-毕设-级)    | 毕业设计、课程设计、熟悉流程          | 
 | 💼 [机器学习 面试级](#机器学习-面试-级)    | 面试材料、项目准备、技术深度挖掘  | 
+| 💼 [机器学习之LLM](#机器学习之LLM)    |  视频资源、项目学习 | 
 
 ### 🔄 持续更新
 本仓库会定期同步GitHub、Kaggle、学术社区的优质开源项目，重点覆盖：
@@ -564,5 +565,69 @@
 |[Machine-Learning-for-Healthcare-Analytics-Projects](https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects)|多个医疗保健分析的机器学习项目|
 |[machine-learning-labs-msba](https://github.com/Nazgul-123/machine-learning-labs-msba)|商业分析理学硕士（MSBA）机器学习课程的实验室和项目，业务环境中的实用ML应用程序集合|
 |[applied-ml](https://github.com/eugeneyan/applied-ml)|关于数据科学和机器学习在生产中的论文、文章和博客|
+
+
+
+### 机器学习之LLM
+### 国内视频
+| title |地址|
+|--------|------|
+|1.认识大模型|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)|
+|2.大模型的运用场景|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=2)|
+|3.Gradio快速入门 |[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=3)|
+|4.提示词工程入门|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=4)|
+|5.提示词应用实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=5)|
+|6.RAG检索增强|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=6)|
+|7.RAG系统构建案例分析|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=7)|
+|8.文档分割|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=8)|
+|9.文本向量化|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=9)|
+|10.向量数据库及原生RAG项目实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=10)|
+|11.倒排索引和KNN|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=11)|
+|12.ANN近似最近邻搜索和聚类索引|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=12)|
+|13.PQ乘积量化|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=13)|
+|14.【Agent】总体概述|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=14)|
+|15.啥是Agent以及核心架构|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=15)|
+|16.多Agent协作模式|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=16)|
+|17.实战：销售场景分析|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=17)|
+|18.实战：用户分析与销售策略落地|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=18)|
+|19.Agent多行业落地场景分享|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=19)|
+|20.Agent概念、组成与决策|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=20)|
+|21.Agent决策应用场景分析|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=21)|
+|22.Agent规划子任务拆解_COT与TOT_|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=22)|
+|23.思维树24点拓展与react框架|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=23)|
+|24.Agent记忆(memory)|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=24)|
+|25.Agent工具使用介绍|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=25)|
+|26.Agent代码初体验、工具使用、记忆添加|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=26)|
+|27.Agent认知框架之Plan-and-Execute|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=27)|
+|28.self-Ask|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=28)|
+|29.Thinking and Self-Refection|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=29)|
+|30.ReAct框架案例实现|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=30)|
+|31.ReAct RAG Agent|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=31)|
+|32.Agent+RAG个性化定制数字人项目1|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=32)|
+|33.Agent+RAG个性化定制数字人项目2|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=33)|
+|34.LangChainV1.2新特性介绍|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=34)|
+|35.LangchainV1.2最新版-申请大模型配置APIKey（win系统）|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=35)|
+|36.LangchainV1.2最新版-申请大模型配置APIKey（mac系统）|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=36)|
+|37.LangchainV1.2最新版-hello-langchain|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=37)|
+|38.LangchainV1.2最新版-models模型调用&动态模型调用|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=38)|
+|39.LangchainV1.2最新版-提示词模板ChatPromptTemplate|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=39)|
+|40.LangchainV1.2最新版-消息messages|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=40)|
+
+
+
+
+
+
+### 项目
+| 项目 | 简介 |
+|--------|------|
+|[happy-llm](https://github.com/datawhalechina/happy-llm)|从零开始构建大模型|
+|[Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)|Mini Agent 是一个极简但专业的演示项目，旨在展示使用 MiniMax M2.5 模型构建 Agent 的最佳实践|
+|[awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|展示RAG、代理、工作流和其他AI用例的项目集合|
+|[agentic](https://github.com/ed-donner/agentic)|实践LLM工程，包括代理人工智能项目|
+|[LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)|该存储库包含不同的LLM聊天机器人项目（RAG、LLM代理等）以及用于训练和微调LLM的知名技术|
+||通过动手项目和现实世界的实现学习大型语言模型开发|
+
+
 
 💡 如果对你有帮助，欢迎 Star 收藏，持续更新～
