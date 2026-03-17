@@ -29,7 +29,7 @@
 | 📈 [机器学习 提升级](#机器学习-提升-级)     | 巩固算法基础、项目实战    | 
 | 🎓 [机器学习 毕设级](#机器学习-毕设-级)    | 毕业设计、课程设计、熟悉流程          | 
 | 💼 [机器学习 面试级](#机器学习-面试-级)    | 面试材料、项目准备、技术深度挖掘  | 
-| 💼 [机器学习之LLM](#机器学习之LLM)    |  视频资源、项目学习 | 
+| 📚 [机器学习之LLM](#机器学习之LLM)    |  视频资源、项目学习 | 
 
 ### 🔄 持续更新
 本仓库会定期同步GitHub、Kaggle、学术社区的优质开源项目，重点覆盖：
@@ -626,7 +626,7 @@
 |[awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|展示RAG、代理、工作流和其他AI用例的项目集合|
 |[agentic](https://github.com/ed-donner/agentic)|实践LLM工程，包括代理人工智能项目|
 |[LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)|该存储库包含不同的LLM聊天机器人项目（RAG、LLM代理等）以及用于训练和微调LLM的知名技术|
-||通过动手项目和现实世界的实现学习大型语言模型开发|
+
 
 
 
