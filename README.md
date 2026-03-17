@@ -488,6 +488,7 @@
 |[Python Project on Traffic Signs Recognition with 95% Accuracy using CNN & Keras](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)|基于CNN &； Keras的交通标志识别项目|
 |[Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|一个有用的5页机器学习备忘单，帮助考试复习，面试准备，以及介于两者之间的任何事情|
 |[Finding-missing-person-using-AI](https://github.com/gaganmanku96/Finding-missing-person-using-AI)|这个项目的重点是追踪失踪人口。我们使用图像处理和机器学习以及Postgres数据库|
+|[ml-engineering](https://github.com/stas00/ml-engineering)|机器学习工程开放书|
 |[My AI & Machine Learning Journey](https://www.kaggle.com/writeups/tabasumusman/my-ai-and-machine-learning-journey)|记录我成为人工智能工程师的过程|
 |[From Kaggle to Production: Diabetes Prediction App with FastAPI & Python](https://www.kaggle.com/writeups/shahfahadhashmi/from-kaggle-to-production-diabetes-prediction-app)|端到端糖尿病预测系统，该系统使用机器学习并部署了FastAPI|
 |[IVF Outcome Prediction with Machine Learning](https://www.kaggle.com/writeups/machinemuse/ivf-outcome-prediction-with-machine-learning)|用机器学习预测体外受精结果|
