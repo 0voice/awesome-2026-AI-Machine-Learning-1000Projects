@@ -299,6 +299,7 @@
 |[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
 | [Machine Learning Projects Repository](https://github.com/shsarv/Machine-Learning-Projects?tab=readme-ov-file) | 这个集合包含了17个项目，展示了机器学习、深度学习、自然语言处理（NLP）和计算机视觉中的核心概念 |
 |[cuml](https://github.com/rapidsai/cuml)|RAPIDS机器学习库|
+|[machine-learning-notes](https://github.com/luweiagi/machine-learning-notes)|这是机器学习学习方法的笔记|
 |[Intrusion Detection System](https://www.kaggle.com/writeups/ujjwalks9/intrusion-detection-system)|利用机器学习和深度学习构建入侵检测系统，分析网络流量，准确检测恶意活动|
 |[Student Performance Prediction using Machine Learning](https://www.kaggle.com/writeups/princejaswanth/student-performance-prediction-using-machine-learn)|使用机器学习预测学生成绩|
 |[MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)|Python笔记本与机器学习和深度学习的例子与Azure机器学习Python SDK|
