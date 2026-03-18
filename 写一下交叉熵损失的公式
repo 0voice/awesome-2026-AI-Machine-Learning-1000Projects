@@ -1,0 +1,26 @@
+### 1. 二分类交叉熵损失（Binary Cross-Entropy）
+单个样本：
+$$
+L = - \big[ y \log \hat{y} + (1-y) \log(1-\hat{y}) \big]
+$$
+
+- $y$：真实标签，取值 **0 或 1**
+- $\hat{y}$：模型预测为正类的概率（sigmoid 输出，$0 \le \hat{y} \le 1$）
+
+---
+
+### 2. 多分类交叉熵损失（Categorical Cross-Entropy）
+单个样本：
+$$
+L = - \sum_{i=1}^C y_i \log \hat{y}_i
+$$
+
+批量平均损失：
+$$
+\mathcal{L} = -\frac{1}{N} \sum_{n=1}^N \sum_{i=1}^C y_{n,i} \log \hat{y}_{n,i}
+$$
+
+- $C$：类别总数
+- $y_i$：真实标签的 **one-hot 编码**，对应类别为 1，其余为 0
+- $\hat{y}_i$：模型经 **softmax** 输出的第 $i$ 类概率
+- $N$：batch 样本数量
