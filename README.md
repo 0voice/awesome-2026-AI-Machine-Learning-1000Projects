@@ -575,12 +575,12 @@
 |1.认识大模型|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)|
 |2.大模型的运用场景|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=2)|
 |3.Gradio快速入门 |[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=3)|
-|4.提示词工程入门|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=4)|
-|5.提示词应用实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=5)|
-|6.RAG检索增强|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=6)|
-|7.RAG系统构建案例分析|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=7)|
-|8.文档分割|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=8)|
-|9.文本向量化|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=9)|
+|4.提示词工程入门|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=4)|
+|5.提示词应用实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=5)|
+|6.RAG检索增强|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=6)|
+|7.RAG系统构建案例分析|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=7)|
+|8.文档分割|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=8)|
+|9.文本向量化|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.788.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=9)|
 |10.向量数据库及原生RAG项目实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=10)|
 |11.倒排索引和KNN|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=11)|
 |12.ANN近似最近邻搜索和聚类索引|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=12)|
@@ -654,7 +654,7 @@
 |80.智能招聘面试模拟系统（上）|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=80)|
 |81.智能招聘面试模拟系统（下）|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=81)|
 |82.搭建本地知识库、AI辅助编程实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=82)|
-|83.大模型辅助生物信息分析实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84=83)|
+|83.大模型辅助生物信息分析实战|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84%3D83&p=83)|
 
 
 
