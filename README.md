@@ -669,6 +669,8 @@
 |[awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|展示RAG、代理、工作流和其他AI用例的项目集合|
 |[agentic](https://github.com/ed-donner/agentic)|实践LLM工程，包括代理人工智能项目|
 |[LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)|该存储库包含不同的LLM聊天机器人项目（RAG、LLM代理等）以及用于训练和微调LLM的知名技术|
+|[llm](https://github.com/simonw/llm)|从命令行访问大型语言模型|
+|[llm.c](https://github.com/karpathy/llm.c)|LLM培训简单，原始C/CUDA|
 
 
 
