@@ -569,7 +569,7 @@
 
 
 ### 机器学习之LLM
-### 国内视频
+### 国内大佬
 | title |地址|
 |--------|------|
 |1.认识大模型|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh/?spm_id_from=333.337.search-card.all.click&vd_source=7f1943d4f3e44b7790489c36d8d96b84)|
