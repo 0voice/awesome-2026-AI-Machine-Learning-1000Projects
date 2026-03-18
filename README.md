@@ -643,7 +643,7 @@
 |69.前期准备工作|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=69)|
 |70.Docker安装和部署|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=70)|
 |71.项目测试|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=71)|
-|72.数据集制作[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=72)|
+|72.数据集制作|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=72)|
 |73.大模型轻量化微调|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=73)|
 |74.大模型应用测试|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=74)|
 |75.封装大模型推理应用接口并测|[点击学习](https://www.bilibili.com/video/BV1TCkKBiEPh?spm_id_from=333.788.videopod.episodes&vd_source=7f1943d4f3e44b7790489c36d8d96b84&p=75)|
