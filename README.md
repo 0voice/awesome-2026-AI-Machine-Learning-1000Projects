@@ -664,6 +664,7 @@
 ### 项目
 | 项目 | 简介 |
 |--------|------|
+|[tensorflow](https://github.com/tensorflow/tensorflow)|tensorflow|
 |[happy-llm](https://github.com/datawhalechina/happy-llm)|从零开始构建大模型|
 |[Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)|Mini Agent 是一个极简但专业的演示项目，旨在展示使用 MiniMax M2.5 模型构建 Agent 的最佳实践|
 |[awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|展示RAG、代理、工作流和其他AI用例的项目集合|
