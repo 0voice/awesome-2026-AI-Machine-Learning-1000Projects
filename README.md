@@ -672,6 +672,15 @@
 |[LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)|该存储库包含不同的LLM聊天机器人项目（RAG、LLM代理等）以及用于训练和微调LLM的知名技术|
 |[llm](https://github.com/simonw/llm)|从命令行访问大型语言模型|
 |[llm.c](https://github.com/karpathy/llm.c)|LLM培训简单，原始C/CUDA|
+|[AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)|初学者AI/ML渗透测试路线图|
+|[ai-tutor-rag-system](https://github.com/towardsai/ai-tutor-rag-system)|这是面向AI的“从初学者到法学硕士开发人员”课程的存储库|
+|[llm-api-starterkit](https://github.com/tleers/llm-api-starterkit)|初学者友好的存储库启动你的第一个LLM API与Python， LangChain和FastAPI，使用本地模型或OpenAI API|
+|[open-llm-assignments](https://github.com/NJUDeepEngine/open-llm-assignments)|关于大型语言模型的作业集合，为初学者和专业人士提供入门和实践高级技术的服务|
+|[llm-scratch-pytorch](https://github.com/skyloevil/llm-scratch-pytorch)|lm-scratch-pytorch -代码是为初学者设计的，重点是理解PyTorch的基础知识和实现|
+|[NaLLM](https://github.com/neo4j/NaLLM)|NaLLM项目的存储库|
+|[mnn-llm](https://github.com/wangzhaode/mnn-llm)|LLM部署基于mnn的项目。这个项目已经并入MNN|
+|[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)|⚡LLM Zoo是一个为大型语言模型提供数据、模型和评估基准的项目|
+|[END-TO-END-GENERATIVE-AI-PROJECTS](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS)|基于LLM模型的端到端生成AI行业项目与Deployment_Awesome LLM项目|
 
 
 
