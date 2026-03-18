@@ -1,0 +1,79 @@
+# 手撕：无重复字符的最长连续子串（最长无重复子数组）
+## 题目描述
+给定一个字符串 `s`（数组同理），请找出其中**不包含重复字符的最长连续子串**的长度。
+> 例：输入 `s = "abcabcbb"` → 输出 `3`（最长子串是 "abc"）；输入 `s = "bbbbb"` → 输出 `1`；输入 `s = "pwwkew"` → 输出 `3`（最长子串是 "wke"）。
+
+## 核心思路：滑动窗口（双指针）+ 哈希表
+这是该题的**最优解法**，时间复杂度 $O(n)$（仅遍历一次），空间复杂度 $O(1)$（字符集有限，如ASCII字符最多256个）。
+1. **滑动窗口**：用左指针 `left`、右指针 `right` 表示当前无重复子串的区间 `[left, right]`；
+2. **哈希表（字典）**：记录每个字符**最后一次出现的索引**，用于快速判断当前字符是否重复、并更新左指针位置；
+3. **核心逻辑**：
+   - 右指针遍历字符串，逐个检查字符；
+   - 若当前字符已在哈希表中，且其最后出现位置 ≥ 左指针（说明在当前窗口内重复），则将左指针跳到「该字符最后出现位置 + 1」；
+   - 更新当前字符的最后出现位置，计算当前窗口长度，更新最大长度。
+
+## 代码实现（Python，最优版）
+```python
+def lengthOfLongestSubstring(s: str) -> int:
+    # 哈希表：key=字符，value=字符最后出现的索引
+    char_index = {}
+    # 左指针初始化为0，最大长度初始化为0
+    left = 0
+    max_len = 0
+    
+    # 右指针遍历每个字符，索引为right，字符为char
+    for right, char in enumerate(s):
+        # 关键：如果字符已存在，且在当前窗口内（索引≥left），更新左指针
+        if char in char_index and char_index[char] >= left:
+            left = char_index[char] + 1
+        
+        # 更新当前字符的最后出现索引
+        char_index[char] = right
+        
+        # 计算当前窗口长度，更新最大长度
+        current_len = right - left + 1
+        if current_len > max_len:
+            max_len = current_len
+    
+    return max_len
+
+# 测试用例
+if __name__ == "__main__":
+    print(lengthOfLongestSubstring("abcabcbb"))  # 输出3
+    print(lengthOfLongestSubstring("bbbbb"))     # 输出1
+    print(lengthOfLongestSubstring("pwwkew"))    # 输出3
+    print(lengthOfLongestSubstring(""))          # 输出0
+    print(lengthOfLongestSubstring("abba"))      # 输出2（易错用例，验证左指针不回退）
+```
+
+## 关键细节解释（面试必说）
+1. **左指针为什么要取 `max` 逻辑？**
+   以用例 `"abba"` 为例：
+   - 遍历到第二个 `b`（索引2）时，左指针跳到3；
+   - 遍历到第二个 `a`（索引3）时，`a` 的最后出现索引是0，此时 `0 < 3`（不在当前窗口内），因此左指针不回退（仍为3），避免错误缩小窗口。
+   → 代码中 `char_index[char] >= left` 这个判断是核心，确保只处理「当前窗口内的重复」。
+
+2. **空间复杂度为什么是 O(1)？**
+   若输入是ASCII字符（如英文字母、数字、符号），哈希表最多存储256个键值对，属于常数级空间；即使是Unicode字符，实际业务中字符集也是有限的，因此空间复杂度视为 $O(1)$。
+
+## 备选解法（暴力法，仅作对比，面试不推荐）
+暴力法遍历所有子串，检查是否重复，时间复杂度 $O(n^2)$，空间 $O(n)$，仅用于理解问题，实际面试中写暴力法会扣分：
+```python
+def lengthOfLongestSubstring_brute(s: str) -> int:
+    max_len = 0
+    for i in range(len(s)):
+        seen = set()
+        current_len = 0
+        for j in range(i, len(s)):
+            if s[j] in seen:
+                break
+            seen.add(s[j])
+            current_len += 1
+        max_len = max(max_len, current_len)
+    return max_len
+```
+
+## 面试满分总结
+1. **核心解法**：滑动窗口+哈希表，时间 $O(n)$、空间 $O(1)$，是该题的最优解；
+2. **关键逻辑**：用哈希表记录字符最后出现位置，遇到重复时「跳左指针」，且仅处理「当前窗口内的重复」；
+3. **易错点**：左指针不能回退（如 `"abba"` 用例），需通过 `char_index[char] >= left` 过滤无效重复。
