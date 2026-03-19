@@ -64,6 +64,7 @@
 |[Machine_Learning_2018](https://github.com/snrazavi/Machine_Learning_2018)|机器学习课程代码和项目， University of Tabriz.|
 |[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
 |[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
+|[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
 |[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
 |[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
 |[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
@@ -77,6 +78,7 @@
 |[machine-learning-course](https://github.com/instillai/machine-learning-course)|Python机器学习课程|
 |[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
 |[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
+|[dmls-book](https://github.com/chiphuyen/dmls-book)|《设计机器学习系统》一书的摘要和资源|
 |[ml-course](https://github.com/girafe-ai/ml-course)|开放机器学习课程|
 |[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
 |[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
@@ -88,6 +90,8 @@
 |[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
 |[Qix](https://github.com/ty4z2008/Qix)|包含机器学习，深度学习，PostgreSQL，分布式系统，Node.Js, Golang的学习资料|
 |[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
+|[Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML)|学习机器学习数学的资源集合|
+|[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)|麻省理工学院深度学习相关课程的教程、作业和竞赛|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
@@ -112,13 +116,11 @@
 |[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
 |[Mobile-Price-Prediction](https://github.com/kevinromany/Mobile-Price-Prediction)|使用基于RAM、电池、相机和存储等功能的机器学习预测智能手机价格，以支持知情定价|
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
-|[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
 |[ml-glossary](https://github.com/bfortuner/ml-glossary)|机器学习术语表|
 |[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|
 |[teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1)|探索机器学习是如何工作的|
 |[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|简单快速地构建你的神经网络|
 |[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)|简单的PyTorch教程零到精通|
-|[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
 |[learning-to-learn](https://github.com/deepmind/learning-to-learn)|学习如何在TensorFlow中学习|
 |[actuarial-python-lab](https://github.com/kongkip/actuarial-python-lab)|精算模型的精选集，从数学理论转化为生产就绪的Python|
@@ -126,7 +128,6 @@
 |[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|一些基本的机器学习模型和算法|
 |[Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)|《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码|
 |[Why Machine Learning Even Needs “Linear Algebra”](https://www.kaggle.com/writeups/shrikantlala/why-machine-learning-even-needs-linear-algebra)|为什么机器学习甚至需要线性代数|
-|[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
 |[forecasting_the_US_treasury_yield_curve](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve)|通过强大的机器学习方法预测美国国债收益率曲线，提高金融的准确性和决策能力|
 |[Sales_forecasting_m5](https://github.com/K1Mo0/Sales_forecasting_m5)|使用M5数据集预测零售销售，通过经过验证的统计和机器学习帮助加强库存管理和收入计划|
 |[Titanic Survival Prediction with Feature Engineering](https://www.kaggle.com/writeups/ayeshanausheen/titanic-survival-prediction)|对泰坦尼克号数据集的初学者友好的探索，使用机器学习来预测乘客的生存并发现关键的见解|
@@ -161,14 +162,11 @@
 | [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects) | 包含多个练手小型项目及教程 |
 |[arXivTimes](https://github.com/arXivTimes/arXivTimes)|用于研究和分享机器学习文章的知识库|
 |[99-ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects)|目前有十多个机器学习初学者项目|
-|[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
 |[cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)|卷积神经网络在Tensorflow中的文本分类|
 |[releasing-research-code](https://github.com/paperswithcode/releasing-research-code)|机器学习研究代码的技巧|
 |[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
 |[tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)|从基础到稍微有趣的Tensorflow应用|
-|[dmls-book](https://github.com/chiphuyen/dmls-book)|《设计机器学习系统》一书的摘要和资源|
 |[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
-|[Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML)|学习机器学习数学的资源集合|
 |[Silver Prices Analysis & Forecasting](https://www.kaggle.com/writeups/hassanjameelahmed/silver-prices-analysis-and-forecasting)|该项目分析了过去10年的白银价格趋势，并根据历史市场数据提供价格预测|
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
@@ -204,7 +202,6 @@
 |[FlappyLearning](https://github.com/xviniette/FlappyLearning)|通过机器学习程序学习玩《Flappy Bird》|
 |[MachineLearning](https://github.com/wepe/MachineLearning)|基础机器学习和深度学习|
 |[Rainfall Prediction](https://www.kaggle.com/writeups/codingwithnkit/rainfall-prediction)|该项目基于气象数据，使用线性回归和随机森林等机器学习模型预测降雨量|
-|[examples](https://github.com/tensorflow/examples)|TensorFlow例子|
 |[DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|
 |[MLAlgorithms](https://github.com/rushter/MLAlgorithms)|机器学习算法实现的最小和干净的例子|
 |[DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)|使用python的常见数据分析和机器学习任务|
@@ -671,6 +668,8 @@
 | 项目 | 简介 |
 |--------|------|
 |[tensorflow](https://github.com/tensorflow/tensorflow)|tensorflow|
+|[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
+|[examples](https://github.com/tensorflow/examples)|TensorFlow例子|
 |[happy-llm](https://github.com/datawhalechina/happy-llm)|从零开始构建大模型|
 |[Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)|Mini Agent 是一个极简但专业的演示项目，旨在展示使用 MiniMax M2.5 模型构建 Agent 的最佳实践|
 |[awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)|展示RAG、代理、工作流和其他AI用例的项目集合|
