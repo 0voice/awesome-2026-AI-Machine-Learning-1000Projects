@@ -47,7 +47,9 @@
 
 ### 机器学习 入门 级 
 
+<center>
 ### 视频课程和书籍笔记
+</center>
 | 课程 | 简介 |
 |--------|------|
 |[deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)|深度学习，机器学习，计算机视觉和自然语言处理的课程多所大学的合集|
