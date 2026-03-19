@@ -45,15 +45,60 @@
 
   ---
 
-### 机器学习 入门 级
+### 机器学习 入门 级 
 
-| 项目 | 简介 |
+### 视频课程和书籍笔记
+| 课程 | 简介 |
 |--------|------|
 |[deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)|深度学习，机器学习，计算机视觉和自然语言处理的课程多所大学的合集|
 |[tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning)|从零到精通深度学习TensorFlow课程的所有课程材料|
+|[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|包含了深度学习从基础到熟悉的教程和视频|
+|[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)|机器学习和深度学习教程|
+|[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|
+|[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
+|[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
+|[TOBoML](https://github.com/Carl-McBride-Ellis/TOBoML)|机器学习橙皮书|
+|[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
+|[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|初学者课程及练习|
+| [Machine Learning Course](https://amanxai.com/2020/09/24/machine-learning-course/) | 来自AMAN KHARWAL的机器学习课程 |
+|[Machine_Learning_2018](https://github.com/snrazavi/Machine_Learning_2018)|机器学习课程代码和项目， University of Tabriz.|
+|[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
+|[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
+|[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
+|[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
+|[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
+|[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
+|[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)|TensorFlow教程与YouTube视频|
+|[DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)|深度学习教程笔记和代码|
+|[Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)|周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有…|
+|[ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)|《黑客机器学习》一书附带的代码|
+|[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)|这是一份很棒的youtube上教授技术的人的名单。关于web开发、计算机科学、机器学习、ga&help的教程；|
+|[tutorials](https://github.com/MorvanZhou/tutorials)|机器学习相关教程|
+|[machine-learning-course](https://github.com/instillai/machine-learning-course)|Python机器学习课程|
+|[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
+|[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
+|[ml-course](https://github.com/girafe-ai/ml-course)|开放机器学习课程|
+|[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
+|[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
+|[Machine-Learning](https://github.com/DorsaRoh/Machine-Learning)| 从头开始学习机器学习|
+|[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
+|[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
+|[ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes)|分享机器学习课程/课堂笔记|
+|[fucking-Machine-Learning-Tutorials](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials)|机器学习和深度学习教程|
+|[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
+|[Qix](https://github.com/ty4z2008/Qix)|包含机器学习，深度学习，PostgreSQL，分布式系统，Node.Js, Golang的学习资料|
+|[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
+|[mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)|麻省理工学院深度学习相关课程的教程、作业和竞赛|
+|[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
+|[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
+
+
+
+### 初学者项目
+| 项目 | 简介 |
+|--------|------|
 |[funNLP](https://github.com/fighting41love/funNLP)|号称几乎最全的中文NLP资源库|
 |[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)|软件工程师的机器学习|
-|[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|包含了深度学习从基础到熟悉的教程和视频|
 | [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
 |[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)|Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习|
 | [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
@@ -64,74 +109,39 @@
 |[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
 |[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
 |[Bengaluru Real Estate Price](https://www.kaggle.com/writeups/likhithanagasri01/bengaluru-real-estate-price)|利用数据科学预测班加罗尔房地产价格|
-|[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)|机器学习和深度学习教程|
-|[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|
-|[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
-|[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
 |[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
-|[TOBoML](https://github.com/Carl-McBride-Ellis/TOBoML)|机器学习橙皮书|
 |[Mobile-Price-Prediction](https://github.com/kevinromany/Mobile-Price-Prediction)|使用基于RAM、电池、相机和存储等功能的机器学习预测智能手机价格，以支持知情定价|
-|[fucking-Machine-Learning-Tutorials](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials)|机器学习和深度学习教程|
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
-|[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
-|[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|初学者课程及练习|
-| [Machine Learning Course](https://amanxai.com/2020/09/24/machine-learning-course/) | 来自AMAN KHARWAL的机器学习课程 |
 |[ml-glossary](https://github.com/bfortuner/ml-glossary)|机器学习术语表|
-|[Machine_Learning_2018](https://github.com/snrazavi/Machine_Learning_2018)|机器学习课程代码和项目， University of Tabriz.|
-|[deep-learning](https://github.com/udacity/deep-learning)|深度学习纳米学位基础课程|
 |[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|
 |[teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1)|探索机器学习是如何工作的|
-|[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
 |[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|简单快速地构建你的神经网络|
-|[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
 |[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)|简单的PyTorch教程零到精通|
-|[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
-|[Qix](https://github.com/ty4z2008/Qix)|包含机器学习，深度学习，PostgreSQL，分布式系统，Node.Js, Golang的学习资料|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
-|[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
 |[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
 |[learning-to-learn](https://github.com/deepmind/learning-to-learn)|学习如何在TensorFlow中学习|
 |[actuarial-python-lab](https://github.com/kongkip/actuarial-python-lab)|精算模型的精选集，从数学理论转化为生产就绪的Python|
-|[tutorials](https://github.com/pytorch/tutorials)| PyTorch教程|
 |[Early Prediction of Health & Lifestyle Diseases](https://www.kaggle.com/writeups/mohitrajdeo/early-prediction-of-health-and-lifestyle-diseases)|该工具使用机器学习NLP对各种健康状况提供早期预测和分析|
 |[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)|一些基本的机器学习模型和算法|
 |[Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)|《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码|
-|[DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)|深度学习教程笔记和代码|
-|[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)|TensorFlow教程与YouTube视频|
-|[ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)|《黑客机器学习》一书附带的代码|
-|[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)|这是一份很棒的youtube上教授技术的人的名单。关于web开发、计算机科学、机器学习、ga&help的教程；|
-|[tutorials](https://github.com/MorvanZhou/tutorials)|机器学习相关教程|
-|[machine-learning-course](https://github.com/instillai/machine-learning-course)|Python机器学习课程|
-|[Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)|周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有…|
 |[Why Machine Learning Even Needs “Linear Algebra”](https://www.kaggle.com/writeups/shrikantlala/why-machine-learning-even-needs-linear-algebra)|为什么机器学习甚至需要线性代数|
-|[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
-|[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
 |[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
 |[forecasting_the_US_treasury_yield_curve](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve)|通过强大的机器学习方法预测美国国债收益率曲线，提高金融的准确性和决策能力|
-|[ml-course](https://github.com/girafe-ai/ml-course)|开放机器学习课程|
-|[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
 |[Sales_forecasting_m5](https://github.com/K1Mo0/Sales_forecasting_m5)|使用M5数据集预测零售销售，通过经过验证的统计和机器学习帮助加强库存管理和收入计划|
 |[Titanic Survival Prediction with Feature Engineering](https://www.kaggle.com/writeups/ayeshanausheen/titanic-survival-prediction)|对泰坦尼克号数据集的初学者友好的探索，使用机器学习来预测乘客的生存并发现关键的见解|
 |[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)|这是一个很棒的负责任的机器学习资源列表|
-|[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
 |[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
-|[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
 |[Python](https://github.com/Tanu-N-Prabhu/Python)|这个存储库可以帮助您从头开始学习Python和机器学习|
-|[Machine-Learning](https://github.com/DorsaRoh/Machine-Learning)| 从头开始学习机器学习|
 |[Obsidian](https://github.com/Brian454-nexus/Obsidian)|一个机器学习管道，将非结构化的“风险登记册”（pdf /Excel）转换为干净的表格数据|
 |[My 10-Day Machine Learning Learning Journey](https://www.kaggle.com/writeups/bittuagarwal23/my-10-day-machine-learning-learning-journey)|我的10天机器学习之旅|
-|[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
 |[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|机器学习框架、库和软件列表|
-|[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
 |[Machine Learning’s Three Major Approaches(ja)](https://www.kaggle.com/writeups/fhkadsfd/machine-learnings-three-major-approaches-comprehen)|机器学习的三大方法|
 |[Girls-In-AI](https://github.com/girls-in-ai/Girls-In-AI)|免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战|
 |[MachineLearning](https://github.com/wepe/MachineLearning)|机器学习算法的实现代码|
 |[Medical Cost Analysis](https://www.kaggle.com/writeups/sunnyboyngobeni/medical-cost-analysis)|基于线性模型（lm）的医疗费用分析|
-|[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
 |[tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新|
 |[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)|《Python机器学习（第二版）》一书代码库和信息资源|
-|[mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)|麻省理工学院深度学习相关课程的教程、作业和竞赛|
 |[Welcome on IOAI-team group](https://www.kaggle.com/writeups/aboubacardiarra1810/welcome-on-ioai-team-group)|高中生的人工智能国际科学奥林匹克竞赛和学习平台|
 |[pytorch-book](https://github.com/chenyuntc/pytorch-book)| 《深度学习框架PyTorch：入门与实战》|
 |[Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)|这是Siraj Raval在Youtube上的“在3个月内学习机器学习”的代码|
@@ -175,7 +185,6 @@
 |[feature-selector](https://github.com/WillKoehrsen/feature-selector)|特征选择器是一种用于机器学习数据集降维的工具|
 |[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|学习成为机器学习工程师的完整每日计划|
 |[Projects](https://github.com/a96666/Projects)|此存储库包含Capgemini培训计划期间开发的所有项目文件、笔记本和资源。它侧重于构建和帮助|
-|[tensorflow](https://github.com/tensorflow/tensorflow)|TensorFlow是一个端到端的开源平台 用于机器学习|
 |[Hill Climbing in Machine Learning — Explained Like You’re 10](https://www.kaggle.com/writeups/kumarkatariya/hill-climbing-in-machine-learning-explained-like)|像你一样解释机器学习中的爬山|
 |[pysc2](https://github.com/google-deepmind/pysc2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|星际争霸II学习环境|
 |[igel](https://github.com/nidhaloff/igel)|机器学习工具，允许您训练，测试和使用模型，而无需编写代码|
@@ -189,9 +198,7 @@
 |["Beginner’s Guide: Iris Dataset Classification in Python "](https://www.kaggle.com/writeups/umaimaiqbal/beginners-guide-iris-dataset-classification-in-pyt)|《初学者指南：Iris Dataset Classification in Python》|
 |[machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)|christianversloot的机器学习的文章|
 |[Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|常见机器学习算法的Python代码|
-|[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[actuarial-python-lab](https://github.com/kongkip/actuarial-python-lab)|精算模型的精选集，从数学理论转化为生产就绪的Python|
-|[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
 |[textgenrnn](https://github.com/minimaxir/textgenrnn)|一个简单的神经网络|
 |[DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|深度学习示例|
 |[FlappyLearning](https://github.com/xviniette/FlappyLearning)|通过机器学习程序学习玩《Flappy Bird》|
@@ -200,7 +207,6 @@
 |[examples](https://github.com/tensorflow/examples)|TensorFlow例子|
 |[DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|
 |[MLAlgorithms](https://github.com/rushter/MLAlgorithms)|机器学习算法实现的最小和干净的例子|
-|[ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes)|分享机器学习课程/课堂笔记|
 |[DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)|使用python的常见数据分析和机器学习任务|
 
 
