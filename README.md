@@ -46,8 +46,8 @@
   ---
 
 ### 机器学习 入门 级 
-<h3 align="center">视频课程和书籍笔记</h3>
 
+<h3 align="center">视频课程和书籍笔记</h3>
 
 | 课程 | 简介 |
 |--------|------|
@@ -98,8 +98,8 @@
 |[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
 
 
+<h3 align="center">初学者项目</h3>
 
-### 初学者项目
 | 项目 | 简介 |
 |--------|------|
 |[funNLP](https://github.com/fighting41love/funNLP)|号称几乎最全的中文NLP资源库|
