@@ -794,6 +794,8 @@
 [50.tensorflow中两个矩阵乘法的区别](面试问答/tensorflow中两个矩阵乘法的区别.md)   
   
 [51.svm中有哪些调参经验](面试问答/svm中有哪些调参经验.md)   
+
+[52.介绍TDNN和ECAPA-TDNN，了解等错误率吗，p、r、f的计算公式？](面试问答/介绍TDNN和ECAPA-TDNN，了解等错误率吗，p、r、f的计算公式？.md)  
   
 
 
