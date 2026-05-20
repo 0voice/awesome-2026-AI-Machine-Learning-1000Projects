@@ -475,6 +475,7 @@
 |[ML Interview Questions with Answers](https://pythongeeks.org/ml-interview-questions-with-answers/)|面试问答2|
 |[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识|
 |[machine-learning-interview](https://github.com/khangich/machine-learning-interview)|机器学习面试的最小可行学习计划|
+|[ML Interview Prep](https://github.com/aasimansari1/ml-interview-prep)|500+ 机器学习面试题与答案，涵盖偏差-方差权衡、正则化、Transformer注意力机制、RAG系统设计，含可运行PyTorch/scikit-learn代码|
 |[AI Job Landscape – 2025](https://www.kaggle.com/writeups/alexanderpascualc/ai-job-landscape-2025)|AI/ML招聘趋势、技能需求和薪资基准的行业快照|
 |[Machine-Learning-Interviews](https://github.com/alirezadir/machine-learning-interviews)|机器学习技术面试|
 | [Machine Learning Projects](https://github.com/anujvyas/Machine-Learning-Projects)|包含多个算法类的机器学习项目 |
